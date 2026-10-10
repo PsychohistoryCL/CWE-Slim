@@ -4,6 +4,7 @@ political_decisions = {
 	show_campaigning_decision = {
 		picture = "party_HQ_show"
 		potential = {
+			election = yes
 			NOT = { has_country_flag = show_campaigning_decision }
 			ai = no
 		}
