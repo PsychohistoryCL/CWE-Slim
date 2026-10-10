@@ -262,7 +262,7 @@ ai_chance = { factor = 0.8 }
 		}
 
 option = {
-name = "Do everything we can to stop the outbreak!"
+name = "Mobilize resources and alert international authorities"
 set_country_flag = ebola_outbreak_2013
 
 money = -300000
@@ -321,7 +321,7 @@ country_event = {
 	}
 
 	option = {
-		name = "Do everything we can to stop the outbreak!"
+		name = "Mobilize resources and alert international authorities"
 		set_country_flag = sars_outbreak_2003
 
 		money = -300000
@@ -1524,9 +1524,9 @@ country_event = {
 	}
 
 	option = {
-		name = "Try to cover it up!"
+		name = "Downplay the severity of the outbreak"
 		
-		badboy = 3
+		badboy = 1
 		
 		set_global_flag = covid19_virus_happened
 		
@@ -1543,11 +1543,11 @@ country_event = {
 			add_country_modifier = { name = virus_timer duration = 180 }
 		}
 
-		ai_chance = { factor = 0.7 }
+		ai_chance = { factor = 0.2 }
 	}
 
 	option = {
-		name = "Do everything we can to stop the outbreak!"
+		name = "Mobilize resources and alert international authorities"
 
 		money = -500000
 		
@@ -1574,7 +1574,7 @@ country_event = {
 			add_country_modifier = { name = virus_timer duration = 180 }
 		}
 
-		ai_chance = { factor = 0.3 }
+		ai_chance = { factor = 0.8 }
 	}
 
 }

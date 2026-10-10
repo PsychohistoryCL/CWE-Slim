@@ -392,7 +392,7 @@ web_1 = {
 		}
 	}
 }
-memes = {
+online_media_culture = {
 	limit = { strd_internet = 1 }
 	news = no
 	chance = {
@@ -1526,7 +1526,7 @@ accelerated_pluralism = {
 	}
 }
 #next_generation_subcultures
-dank_memes = {
+digital_satire = {
 	limit = { next_generation_subcultures = 1 }
 	news = no
 	chance = {

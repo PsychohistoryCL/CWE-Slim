@@ -3068,7 +3068,7 @@ country_event = {
 	mean_time_to_happen = { months = 6 }
 	
 	option = {
-		name = "Holding a bible upside down will appease them!"
+		name = "We must address systemic inequality and maintain public order."
 		
 		#National unrest
 		add_country_modifier = { name = communal_violence duration = 365 }
@@ -3186,13 +3186,13 @@ country_event = {
 	mean_time_to_happen = { months = 0.1 }
 	
 	option = {
-		name = "WTF?! This is an insurrection folks!"
+		name = "We must defend our democratic institutions."
 		
 		prestige_factor = -0.05
 		
 		#Chance of kicking start the civil war
 		random = {
-			chance = 80
+			chance = 5
 			set_country_flag = possible_USA_civil_war
 		}
 		
