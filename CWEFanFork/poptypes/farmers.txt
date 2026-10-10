@@ -555,7 +555,7 @@ migration_target = {
 promote_to =
 {
 	craftsmen = {
-		factor = 0.01
+		factor = 0.05
 
 		modifier = { factor = 5 country = { has_country_flag = india_land_reform } }
 

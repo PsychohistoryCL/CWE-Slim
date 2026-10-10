@@ -7,9 +7,19 @@
 	 } 
 	farmers = {
 		culture = arab_gulf
-		religion =  sunni 
-		size = 54804
-	 } 
+		religion = sunni
+		size = 32883
+	}
+	craftsmen = {
+		culture = arab_gulf
+		religion = sunni
+		size = 19181
+	}
+	clerks = {
+		culture = arab_gulf
+		religion = sunni
+		size = 2740
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -23,9 +33,19 @@
 1175 = {
 	farmers = {
 		culture = arab_gulf
-		religion =  sunni 
-		size = 5481
-	 } 
+		religion = sunni
+		size = 3289
+	}
+	craftsmen = {
+		culture = arab_gulf
+		religion = sunni
+		size = 1918
+	}
+	clerks = {
+		culture = arab_gulf
+		religion = sunni
+		size = 274
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -44,9 +64,19 @@
 	 } 
 	farmers = {
 		culture = arab_gulf
-		religion =  sunni 
-		size = 55844
-	 } 
+		religion = sunni
+		size = 33507
+	}
+	craftsmen = {
+		culture = arab_gulf
+		religion = sunni
+		size = 19545
+	}
+	clerks = {
+		culture = arab_gulf
+		religion = sunni
+		size = 2792
+	} 
 	farmers = {
 		culture = arab_gulf
 		religion =  shiite 
@@ -146,14 +176,34 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  sunni 
-		size = 99861
-	 } 
+		religion = sunni
+		size = 59917
+	}
+	craftsmen = {
+		culture = indian
+		religion = sunni
+		size = 34951
+	}
+	clerks = {
+		culture = indian
+		religion = sunni
+		size = 4993
+	} 
 	farmers = {
 		culture = sinhala
-		religion =  buddhist 
-		size = 642770
-	 } 
+		religion = buddhist
+		size = 385663
+	}
+	craftsmen = {
+		culture = sinhala
+		religion = buddhist
+		size = 224969
+	}
+	clerks = {
+		culture = sinhala
+		religion = buddhist
+		size = 32138
+	} 
 	farmers = {
 		culture = sinhala
 		religion = secularism
@@ -229,9 +279,19 @@
 	 } 
 	farmers = {
 		culture = tamil
-		religion =  hindu 
-		size = 103231
-	 } 
+		religion = hindu
+		size = 61940
+	}
+	craftsmen = {
+		culture = tamil
+		religion = hindu
+		size = 36130
+	}
+	clerks = {
+		culture = tamil
+		religion = hindu
+		size = 5161
+	} 
 	farmers = {
 		culture = tamil
 		religion = secularism
@@ -239,9 +299,19 @@
 	 } 
 	farmers = {
 		culture = sinhala
-		religion =  buddhist 
-		size = 5907
-	 } 
+		religion = buddhist
+		size = 3545
+	}
+	craftsmen = {
+		culture = sinhala
+		religion = buddhist
+		size = 2067
+	}
+	clerks = {
+		culture = sinhala
+		religion = buddhist
+		size = 295
+	} 
 	farmers = {
 		culture = sinhala
 		religion = secularism
@@ -332,9 +402,19 @@
 	 } 
 	farmers = {
 		culture = sinhala
-		religion =  buddhist 
-		size = 719843
-	 } 
+		religion = buddhist
+		size = 431906
+	}
+	craftsmen = {
+		culture = sinhala
+		religion = buddhist
+		size = 251945
+	}
+	clerks = {
+		culture = sinhala
+		religion = buddhist
+		size = 35992
+	} 
 	farmers = {
 		culture = sinhala
 		religion = secularism
@@ -410,9 +490,19 @@
 	 } 
 	farmers = {
 		culture = tamil
-		religion =  hindu 
-		size = 81653
-	 } 
+		religion = hindu
+		size = 48993
+	}
+	craftsmen = {
+		culture = tamil
+		religion = hindu
+		size = 28578
+	}
+	clerks = {
+		culture = tamil
+		religion = hindu
+		size = 4082
+	} 
 	farmers = {
 		culture = tamil
 		religion = secularism
@@ -420,14 +510,34 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  sunni 
-		size = 34650
-	 } 
+		religion = sunni
+		size = 20791
+	}
+	craftsmen = {
+		culture = indian
+		religion = sunni
+		size = 12127
+	}
+	clerks = {
+		culture = indian
+		religion = sunni
+		size = 1732
+	} 
 	farmers = {
 		culture = sinhala
-		religion =  buddhist 
-		size = 43095
-	 } 
+		religion = buddhist
+		size = 25858
+	}
+	craftsmen = {
+		culture = sinhala
+		religion = buddhist
+		size = 15083
+	}
+	clerks = {
+		culture = sinhala
+		religion = buddhist
+		size = 2154
+	} 
 	farmers = {
 		culture = sinhala
 		religion = secularism
@@ -518,9 +628,19 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  hindu 
-		size = 65770
-	 } 
+		religion = hindu
+		size = 39463
+	}
+	craftsmen = {
+		culture = indian
+		religion = hindu
+		size = 23019
+	}
+	clerks = {
+		culture = indian
+		religion = hindu
+		size = 3288
+	} 
 	farmers = {
 		culture = indian
 		religion = secularism
@@ -528,14 +648,34 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  sunni 
-		size = 44975
-	 } 
+		religion = sunni
+		size = 26986
+	}
+	craftsmen = {
+		culture = indian
+		religion = sunni
+		size = 15741
+	}
+	clerks = {
+		culture = indian
+		religion = sunni
+		size = 2248
+	} 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 289021
-	 } 
+		religion = buddhist
+		size = 173413
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 101157
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 14451
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -616,9 +756,19 @@
 	 } 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 582159
-	 } 
+		religion = buddhist
+		size = 349297
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 203755
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 29107
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -699,9 +849,19 @@
 	 } 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 445612
-	 } 
+		religion = buddhist
+		size = 267368
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 155964
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 22280
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -782,9 +942,19 @@
 	 } 
 	farmers = {
 		culture = karen
-		religion =  protestant 
-		size = 125001
-	 } 
+		religion = protestant
+		size = 75001
+	}
+	craftsmen = {
+		culture = karen
+		religion = protestant
+		size = 43750
+	}
+	clerks = {
+		culture = karen
+		religion = protestant
+		size = 6250
+	} 
 	farmers = {
 		culture = karen
 		religion = secularism
@@ -865,9 +1035,19 @@
 	 } 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 174736
-	 } 
+		religion = buddhist
+		size = 104843
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 61157
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 8736
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -948,9 +1128,19 @@
 	 } 
 	farmers = {
 		culture = chinese
-		religion =  taoism 
-		size = 31188
-	 } 
+		religion = taoism
+		size = 18714
+	}
+	craftsmen = {
+		culture = chinese
+		religion = taoism
+		size = 10915
+	}
+	clerks = {
+		culture = chinese
+		religion = taoism
+		size = 1559
+	} 
 	farmers = {
 		culture = chinese
 		religion = secularism
@@ -958,9 +1148,19 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  hindu 
-		size = 25055
-	 } 
+		religion = hindu
+		size = 15034
+	}
+	craftsmen = {
+		culture = indian
+		religion = hindu
+		size = 8769
+	}
+	clerks = {
+		culture = indian
+		religion = hindu
+		size = 1252
+	} 
 	farmers = {
 		culture = indian
 		religion = secularism
@@ -968,14 +1168,34 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  sunni 
-		size = 50490
-	 } 
+		religion = sunni
+		size = 30295
+	}
+	craftsmen = {
+		culture = indian
+		religion = sunni
+		size = 17671
+	}
+	clerks = {
+		culture = indian
+		religion = sunni
+		size = 2524
+	} 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 640996
-	 } 
+		religion = buddhist
+		size = 384599
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 224348
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 32049
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -1056,9 +1276,19 @@
 	 } 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 215147
-	 } 
+		religion = buddhist
+		size = 129089
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 75301
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 10757
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -1139,9 +1369,19 @@
 	 } 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 174736
-	 } 
+		religion = buddhist
+		size = 104843
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 61157
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 8736
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -1207,9 +1447,19 @@
 	 } 
 	farmers = {
 		culture = karen
-		religion =  protestant 
-		size = 22425
-	 } 
+		religion = protestant
+		size = 13456
+	}
+	craftsmen = {
+		culture = karen
+		religion = protestant
+		size = 7848
+	}
+	clerks = {
+		culture = karen
+		religion = protestant
+		size = 1121
+	} 
 	farmers = {
 		culture = karen
 		religion = secularism
@@ -1290,9 +1540,19 @@
 	 } 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 288415
-	 } 
+		religion = buddhist
+		size = 173050
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 100945
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 14420
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -1373,9 +1633,19 @@
 	 } 
 	farmers = {
 		culture = shan
-		religion =  buddhist 
-		size = 349258
-	 } 
+		religion = buddhist
+		size = 209556
+	}
+	craftsmen = {
+		culture = shan
+		religion = buddhist
+		size = 122240
+	}
+	clerks = {
+		culture = shan
+		religion = buddhist
+		size = 17462
+	} 
 	farmers = {
 		culture = shan
 		religion = secularism
@@ -1383,9 +1653,19 @@
 	 } 
 	farmers = {
 		culture = karen
-		religion =  protestant 
-		size = 37893
-	 } 
+		religion = protestant
+		size = 22737
+	}
+	craftsmen = {
+		culture = karen
+		religion = protestant
+		size = 13262
+	}
+	clerks = {
+		culture = karen
+		religion = protestant
+		size = 1894
+	} 
 	farmers = {
 		culture = karen
 		religion = secularism
@@ -1393,9 +1673,19 @@
 	 } 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 36700
-	 } 
+		religion = buddhist
+		size = 22020
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 12845
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 1835
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -1471,9 +1761,19 @@
 	 } 
 	farmers = {
 		culture = chinese
-		religion =  taoism 
-		size = 7660
-	 } 
+		religion = taoism
+		size = 4596
+	}
+	craftsmen = {
+		culture = chinese
+		religion = taoism
+		size = 2681
+	}
+	clerks = {
+		culture = chinese
+		religion = taoism
+		size = 383
+	} 
 	farmers = {
 		culture = chinese
 		religion = secularism
@@ -1481,9 +1781,19 @@
 	 } 
 	farmers = {
 		culture = kachin
-		religion =  protestant 
-		size = 35890
-	 } 
+		religion = protestant
+		size = 21535
+	}
+	craftsmen = {
+		culture = kachin
+		religion = protestant
+		size = 12561
+	}
+	clerks = {
+		culture = kachin
+		religion = protestant
+		size = 1794
+	} 
 	farmers = {
 		culture = kachin
 		religion = secularism
@@ -1491,9 +1801,19 @@
 	 } 
 	farmers = {
 		culture = shan
-		religion =  buddhist 
-		size = 14842
-	 } 
+		religion = buddhist
+		size = 8906
+	}
+	craftsmen = {
+		culture = shan
+		religion = buddhist
+		size = 5194
+	}
+	clerks = {
+		culture = shan
+		religion = buddhist
+		size = 742
+	} 
 	farmers = {
 		culture = shan
 		religion = secularism
@@ -1579,9 +1899,19 @@
 	 } 
 	farmers = {
 		culture = kachin
-		religion =  protestant 
-		size = 34394
-	 } 
+		religion = protestant
+		size = 20638
+	}
+	craftsmen = {
+		culture = kachin
+		religion = protestant
+		size = 12037
+	}
+	clerks = {
+		culture = kachin
+		religion = protestant
+		size = 1719
+	} 
 	farmers = {
 		culture = kachin
 		religion = secularism
@@ -1589,9 +1919,19 @@
 	 } 
 	farmers = {
 		culture = shan
-		religion =  buddhist 
-		size = 18004
-	 } 
+		religion = buddhist
+		size = 10803
+	}
+	craftsmen = {
+		culture = shan
+		religion = buddhist
+		size = 6301
+	}
+	clerks = {
+		culture = shan
+		religion = buddhist
+		size = 900
+	} 
 	farmers = {
 		culture = shan
 		religion = secularism
@@ -1672,9 +2012,19 @@
 	 } 
 	farmers = {
 		culture = mon
-		religion =  buddhist 
-		size = 76379
-	 } 
+		religion = buddhist
+		size = 45829
+	}
+	craftsmen = {
+		culture = mon
+		religion = buddhist
+		size = 26732
+	}
+	clerks = {
+		culture = mon
+		religion = buddhist
+		size = 3818
+	} 
 	farmers = {
 		culture = mon
 		religion = secularism
@@ -1682,9 +2032,19 @@
 	 } 
 	farmers = {
 		culture = karen
-		religion =  protestant 
-		size = 72204
-	 } 
+		religion = protestant
+		size = 43323
+	}
+	craftsmen = {
+		culture = karen
+		religion = protestant
+		size = 25271
+	}
+	clerks = {
+		culture = karen
+		religion = protestant
+		size = 3610
+	} 
 	farmers = {
 		culture = karen
 		religion = secularism
@@ -1692,9 +2052,19 @@
 	 } 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 66784
-	 } 
+		religion = buddhist
+		size = 40071
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 23374
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 3339
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -1770,9 +2140,19 @@
 	 } 
 	farmers = {
 		culture = burmese
-		religion =  buddhist 
-		size = 59162
-	 } 
+		religion = buddhist
+		size = 35498
+	}
+	craftsmen = {
+		culture = burmese
+		religion = buddhist
+		size = 20706
+	}
+	clerks = {
+		culture = burmese
+		religion = buddhist
+		size = 2958
+	} 
 	farmers = {
 		culture = burmese
 		religion = secularism
@@ -1780,9 +2160,19 @@
 	 } 
 	farmers = {
 		culture = karen
-		religion =  protestant 
-		size = 59179
-	 } 
+		religion = protestant
+		size = 35509
+	}
+	craftsmen = {
+		culture = karen
+		religion = protestant
+		size = 20712
+	}
+	clerks = {
+		culture = karen
+		religion = protestant
+		size = 2958
+	} 
 	farmers = {
 		culture = karen
 		religion = secularism
@@ -1863,9 +2253,19 @@
 	 } 
 	farmers = {
 		culture = rakhine
-		religion =  buddhist 
-		size = 169194
-	 } 
+		religion = buddhist
+		size = 101518
+	}
+	craftsmen = {
+		culture = rakhine
+		religion = buddhist
+		size = 59217
+	}
+	clerks = {
+		culture = rakhine
+		religion = buddhist
+		size = 8459
+	} 
 	farmers = {
 		culture = rakhine
 		religion = secularism
@@ -1873,14 +2273,34 @@
 	 } 
 	farmers = {
 		culture = rohingya
-		religion =  sunni 
-		size = 72967
-	 } 
+		religion = sunni
+		size = 43781
+	}
+	craftsmen = {
+		culture = rohingya
+		religion = sunni
+		size = 25538
+	}
+	clerks = {
+		culture = rohingya
+		religion = sunni
+		size = 3648
+	} 
 	farmers = {
 		culture = chin
-		religion =  buddhist 
-		size = 40141
-	 } 
+		religion = buddhist
+		size = 24085
+	}
+	craftsmen = {
+		culture = chin
+		religion = buddhist
+		size = 14049
+	}
+	clerks = {
+		culture = chin
+		religion = buddhist
+		size = 2007
+	} 
 	farmers = {
 		culture = chin
 		religion = secularism
@@ -1981,14 +2401,34 @@
 	 } 
 	farmers = {
 		culture = malay
-		religion =  sunni 
-		size = 19000
-	 } 
+		religion = sunni
+		size = 11400
+	}
+	craftsmen = {
+		culture = malay
+		religion = sunni
+		size = 6650
+	}
+	clerks = {
+		culture = malay
+		religion = sunni
+		size = 950
+	} 
 	farmers = {
 		culture = malay
-		religion =  sunni 
-		size = 20988
-	 } 
+		religion = sunni
+		size = 12594
+	}
+	craftsmen = {
+		culture = malay
+		religion = sunni
+		size = 7345
+	}
+	clerks = {
+		culture = malay
+		religion = sunni
+		size = 1049
+	} 
 	craftsmen = {
 		culture = indian
 		religion =  hindu 
@@ -2074,9 +2514,19 @@
 	 } 
 	farmers = {
 		culture = chinese
-		religion =  taoism 
-		size = 11379
-	 } 
+		religion = taoism
+		size = 6829
+	}
+	craftsmen = {
+		culture = chinese
+		religion = taoism
+		size = 3982
+	}
+	clerks = {
+		culture = chinese
+		religion = taoism
+		size = 568
+	} 
 	farmers = {
 		culture = chinese
 		religion = secularism
@@ -2094,9 +2544,19 @@
 	 } 
 	farmers = {
 		culture = malay
-		religion =  sunni 
-		size = 20988
-	 } 
+		religion = sunni
+		size = 12594
+	}
+	craftsmen = {
+		culture = malay
+		religion = sunni
+		size = 7345
+	}
+	clerks = {
+		culture = malay
+		religion = sunni
+		size = 1049
+	} 
 }
 #Penang - Penang (357000/89250 POPS)
 1388 = {
@@ -2172,9 +2632,19 @@
 	 } 
 	farmers = {
 		culture = chinese
-		religion =  taoism 
-		size = 35010
-	 } 
+		religion = taoism
+		size = 21007
+	}
+	craftsmen = {
+		culture = chinese
+		religion = taoism
+		size = 12253
+	}
+	clerks = {
+		culture = chinese
+		religion = taoism
+		size = 1750
+	} 
 	farmers = {
 		culture = chinese
 		religion = secularism
@@ -2182,9 +2652,19 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  hindu 
-		size = 10442
-	 } 
+		religion = hindu
+		size = 6266
+	}
+	craftsmen = {
+		culture = indian
+		religion = hindu
+		size = 3654
+	}
+	clerks = {
+		culture = indian
+		religion = hindu
+		size = 522
+	} 
 	farmers = {
 		culture = indian
 		religion = secularism
@@ -2192,9 +2672,19 @@
 	 } 
 	farmers = {
 		culture = malay
-		religion =  sunni 
-		size = 23546
-	 } 
+		religion = sunni
+		size = 14128
+	}
+	craftsmen = {
+		culture = malay
+		religion = sunni
+		size = 8241
+	}
+	clerks = {
+		culture = malay
+		religion = sunni
+		size = 1177
+	} 
 }
 #Brunei - Brunei (45000/11250 POPS)
 1393 = {
@@ -2265,9 +2755,19 @@
 	 } 
 	farmers = {
 		culture = malay
-		religion =  sunni 
-		size = 7191
-	 } 
+		religion = sunni
+		size = 4316
+	}
+	craftsmen = {
+		culture = malay
+		religion = sunni
+		size = 2516
+	}
+	clerks = {
+		culture = malay
+		religion = sunni
+		size = 359
+	} 
 }
 #Kuching - Kuching (393000/98250 POPS)
 1394 = {
@@ -2343,9 +2843,19 @@
 	 } 
 	farmers = {
 		culture = chinese
-		religion =  taoism 
-		size = 17466
-	 } 
+		religion = taoism
+		size = 10480
+	}
+	craftsmen = {
+		culture = chinese
+		religion = taoism
+		size = 6113
+	}
+	clerks = {
+		culture = chinese
+		religion = taoism
+		size = 873
+	} 
 	farmers = {
 		culture = chinese
 		religion = secularism
@@ -2353,9 +2863,19 @@
 	 } 
 	farmers = {
 		culture = kalimatan
-		religion =  protestant 
-		size = 42149
-	 } 
+		religion = protestant
+		size = 25290
+	}
+	craftsmen = {
+		culture = kalimatan
+		religion = protestant
+		size = 14752
+	}
+	clerks = {
+		culture = kalimatan
+		religion = protestant
+		size = 2107
+	} 
 	farmers = {
 		culture = kalimatan
 		religion = secularism
@@ -2363,9 +2883,19 @@
 	 } 
 	farmers = {
 		culture = malay
-		religion =  sunni 
-		size = 16094
-	 } 
+		religion = sunni
+		size = 9658
+	}
+	craftsmen = {
+		culture = malay
+		religion = sunni
+		size = 5632
+	}
+	clerks = {
+		culture = malay
+		religion = sunni
+		size = 804
+	} 
 }
 #Bintulu - Bintulu (175000/43750 POPS)
 1395 = {
@@ -2441,9 +2971,19 @@
 	 } 
 	farmers = {
 		culture = chinese
-		religion =  taoism 
-		size = 7778
-	 } 
+		religion = taoism
+		size = 4668
+	}
+	craftsmen = {
+		culture = chinese
+		religion = taoism
+		size = 2722
+	}
+	clerks = {
+		culture = chinese
+		religion = taoism
+		size = 388
+	} 
 	farmers = {
 		culture = chinese
 		religion = secularism
@@ -2451,9 +2991,19 @@
 	 } 
 	farmers = {
 		culture = kalimatan
-		religion =  protestant 
-		size = 18768
-	 } 
+		religion = protestant
+		size = 11262
+	}
+	craftsmen = {
+		culture = kalimatan
+		religion = protestant
+		size = 6568
+	}
+	clerks = {
+		culture = kalimatan
+		religion = protestant
+		size = 938
+	} 
 	farmers = {
 		culture = kalimatan
 		religion = secularism
@@ -2461,9 +3011,19 @@
 	 } 
 	farmers = {
 		culture = malay
-		religion =  sunni 
-		size = 7165
-	 } 
+		religion = sunni
+		size = 4300
+	}
+	craftsmen = {
+		culture = malay
+		religion = sunni
+		size = 2507
+	}
+	clerks = {
+		culture = malay
+		religion = sunni
+		size = 358
+	} 
 }
 #Api - Api (440000/110000 POPS)
 1396 = {
@@ -2549,9 +3109,19 @@
 	 } 
 	farmers = {
 		culture = kalimatan
-		religion =  protestant 
-		size = 31101
-	 } 
+		religion = protestant
+		size = 18661
+	}
+	craftsmen = {
+		culture = kalimatan
+		religion = protestant
+		size = 10885
+	}
+	clerks = {
+		culture = kalimatan
+		religion = protestant
+		size = 1555
+	} 
 	farmers = {
 		culture = kalimatan
 		religion = secularism
@@ -2559,14 +3129,34 @@
 	 } 
 	farmers = {
 		culture = malay
-		religion =  sunni 
-		size = 24200
-	 } 
+		religion = sunni
+		size = 14520
+	}
+	craftsmen = {
+		culture = malay
+		religion = sunni
+		size = 8470
+	}
+	clerks = {
+		culture = malay
+		religion = sunni
+		size = 1210
+	} 
 	farmers = {
 		culture = indonesian
-		religion =  sunni 
-		size = 30122
-	 } 
+		religion = sunni
+		size = 18074
+	}
+	craftsmen = {
+		culture = indonesian
+		religion = sunni
+		size = 10542
+	}
+	clerks = {
+		culture = indonesian
+		religion = sunni
+		size = 1506
+	} 
 }
 #Sandakan - Sandakan (292000/73000 POPS)
 1397 = {
@@ -2652,9 +3242,19 @@
 	 } 
 	farmers = {
 		culture = kalimatan
-		religion =  protestant 
-		size = 20640
-	 } 
+		religion = protestant
+		size = 12385
+	}
+	craftsmen = {
+		culture = kalimatan
+		religion = protestant
+		size = 7223
+	}
+	clerks = {
+		culture = kalimatan
+		religion = protestant
+		size = 1032
+	} 
 	farmers = {
 		culture = kalimatan
 		religion = secularism
@@ -2662,14 +3262,34 @@
 	 } 
 	farmers = {
 		culture = malay
-		religion =  sunni 
-		size = 16060
-	 } 
+		religion = sunni
+		size = 9636
+	}
+	craftsmen = {
+		culture = malay
+		religion = sunni
+		size = 5621
+	}
+	clerks = {
+		culture = malay
+		religion = sunni
+		size = 803
+	} 
 	farmers = {
 		culture = indonesian
-		religion =  sunni 
-		size = 19988
-	 } 
+		religion = sunni
+		size = 11994
+	}
+	craftsmen = {
+		culture = indonesian
+		religion = sunni
+		size = 6995
+	}
+	clerks = {
+		culture = indonesian
+		religion = sunni
+		size = 999
+	} 
 }
 #Aden - Aden (286000/71500 POPS)
 1412 = {
@@ -2695,9 +3315,19 @@
 	 } 
 	farmers = {
 		culture = arab_gulf
-		religion =  sunni 
-		size = 62134
-	 } 
+		religion = sunni
+		size = 37282
+	}
+	craftsmen = {
+		culture = arab_gulf
+		religion = sunni
+		size = 21746
+	}
+	clerks = {
+		culture = arab_gulf
+		religion = sunni
+		size = 3106
+	} 
 	farmers = {
 		culture = somali
 		religion =  sunni 
@@ -2821,9 +3451,19 @@
 	 } 
 	farmers = {
 		culture = filipino
-		religion =  catholic 
-		size = 11996
-	 } 
+		religion = catholic
+		size = 7199
+	}
+	craftsmen = {
+		culture = filipino
+		religion = catholic
+		size = 4198
+	}
+	clerks = {
+		culture = filipino
+		religion = catholic
+		size = 599
+	} 
 	farmers = {
 		culture = filipino
 		religion = secularism
@@ -2944,13 +3584,33 @@
 	 } 
 	farmers = {
 		culture = berber
-		religion =  sunni 
-		size = 63546
-	 }
+		religion = sunni
+		size = 38128
+	}
+	craftsmen = {
+		culture = berber
+		religion = sunni
+		size = 22241
+	}
+	clerks = {
+		culture = berber
+		religion = sunni
+		size = 3177
+	}
 	farmers = {
 		culture = italian
 		religion = catholic
-		size = 20140
+		size = 12084
+	}
+	craftsmen = {
+		culture = italian
+		religion = catholic
+		size = 7049
+	}
+	clerks = {
+		culture = italian
+		religion = catholic
+		size = 1007
 	}
 	farmers = {
 		culture = italian
@@ -2970,9 +3630,19 @@
 1732 = {
 	farmers = {
 		culture = berber
-		religion =  sunni 
-		size = 10659
-	 } 
+		religion = sunni
+		size = 6397
+	}
+	craftsmen = {
+		culture = berber
+		religion = sunni
+		size = 3730
+	}
+	clerks = {
+		culture = berber
+		religion = sunni
+		size = 532
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -2996,9 +3666,19 @@
 	} 
 	farmers = {
 		culture = berber
-		religion =  sunni 
-		size = 16621
-	 } 
+		religion = sunni
+		size = 9973
+	}
+	craftsmen = {
+		culture = berber
+		religion = sunni
+		size = 5817
+	}
+	clerks = {
+		culture = berber
+		religion = sunni
+		size = 831
+	} 
 	farmers = {
 		culture = italian
 		religion = catholic
@@ -3022,9 +3702,19 @@
 1734 = {
 	farmers = {
 		culture = berber
-		religion =  sunni 
-		size = 6603
-	 } 
+		religion = sunni
+		size = 3962
+	}
+	craftsmen = {
+		culture = berber
+		religion = sunni
+		size = 2311
+	}
+	clerks = {
+		culture = berber
+		religion = sunni
+		size = 330
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -3068,9 +3758,19 @@
 	 } 
 	farmers = {
 		culture = berber
-		religion =  sunni 
-		size = 25941
-	 } 
+		religion = sunni
+		size = 15565
+	}
+	craftsmen = {
+		culture = berber
+		religion = sunni
+		size = 9079
+	}
+	clerks = {
+		culture = berber
+		religion = sunni
+		size = 1297
+	} 
 	farmers = {
 		culture = italian
 		religion = catholic
@@ -3094,9 +3794,19 @@
 1736 = {
 	farmers = {
 		culture = berber
-		religion =  sunni 
-		size = 12398
-	 } 
+		religion = sunni
+		size = 7440
+	}
+	craftsmen = {
+		culture = berber
+		religion = sunni
+		size = 4339
+	}
+	clerks = {
+		culture = berber
+		religion = sunni
+		size = 619
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -3110,9 +3820,19 @@
 1737 = {
 	farmers = {
 		culture = berber
-		religion =  sunni 
-		size = 5636
-	 } 
+		religion = sunni
+		size = 3383
+	}
+	craftsmen = {
+		culture = berber
+		religion = sunni
+		size = 1972
+	}
+	clerks = {
+		culture = berber
+		religion = sunni
+		size = 281
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -3304,9 +4024,19 @@
 	 } 
 	farmers = {
 		culture = egyptian
-		religion =  sunni 
-		size = 92461
-	 } 
+		religion = sunni
+		size = 55477
+	}
+	craftsmen = {
+		culture = egyptian
+		religion = sunni
+		size = 32361
+	}
+	clerks = {
+		culture = egyptian
+		religion = sunni
+		size = 4623
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -3360,24 +4090,64 @@
 	 } 
 	farmers = {
 		culture = mande
-		religion =  sunni 
-		size = 24986
-	 } 
+		religion = sunni
+		size = 14992
+	}
+	craftsmen = {
+		culture = mande
+		religion = sunni
+		size = 8745
+	}
+	clerks = {
+		culture = mande
+		religion = sunni
+		size = 1249
+	} 
 	farmers = {
 		culture = fula
-		religion =  sunni 
-		size = 12195
-	 } 
+		religion = sunni
+		size = 7318
+	}
+	craftsmen = {
+		culture = fula
+		religion = sunni
+		size = 4268
+	}
+	clerks = {
+		culture = fula
+		religion = sunni
+		size = 609
+	} 
 	farmers = {
 		culture = wolof
-		religion =  sunni 
-		size = 10840
-	 } 
+		religion = sunni
+		size = 6505
+	}
+	craftsmen = {
+		culture = wolof
+		religion = sunni
+		size = 3793
+	}
+	clerks = {
+		culture = wolof
+		religion = sunni
+		size = 542
+	} 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 8023
-	 } 
+		religion = catholic
+		size = 4814
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 2808
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 401
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -3413,9 +4183,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 252411
-	 } 
+		religion = sunni
+		size = 151448
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 88343
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 12620
+	} 
 }
 #Wad Madani - Wad Madani (598000/149500 POPS)
 1828 = {
@@ -3441,9 +4221,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 133696
-	 } 
+		religion = sunni
+		size = 80219
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 46793
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 6684
+	} 
 }
 #Kassala - Kassala (250000/62500 POPS)
 1829 = {
@@ -3454,9 +4244,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 55893
-	 } 
+		religion = sunni
+		size = 33537
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 19562
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 2794
+	} 
 }
 #Sennar - Sennar (327000/81750 POPS)
 1830 = {
@@ -3467,9 +4267,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 73108
-	 } 
+		religion = sunni
+		size = 43866
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 25587
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 3655
+	} 
 }
 #Rabak - Rabak (254000/63500 POPS)
 1831 = {
@@ -3480,9 +4290,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 56787
-	 } 
+		religion = sunni
+		size = 34073
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 19875
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 2839
+	} 
 }
 #Fashoda - Fashoda (178000/44500 POPS)
 1832 = {
@@ -3563,9 +4383,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 36355
-	 } 
+		religion = sunni
+		size = 21814
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 12724
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 1817
+	} 
 }
 #Suakin - Suakin (214000/53500 POPS)
 1833 = {
@@ -3576,14 +4406,34 @@
 	 } 
 	farmers = {
 		culture = beja
-		religion =  sunni 
-		size = 38376
-	 } 
+		religion = sunni
+		size = 23027
+	}
+	craftsmen = {
+		culture = beja
+		religion = sunni
+		size = 13431
+	}
+	clerks = {
+		culture = beja
+		religion = sunni
+		size = 1918
+	} 
 	farmers = {
 		culture = arab
-		religion =  sunni 
-		size = 9467
-	 } 
+		religion = sunni
+		size = 5681
+	}
+	craftsmen = {
+		culture = arab
+		religion = sunni
+		size = 3313
+	}
+	clerks = {
+		culture = arab
+		religion = sunni
+		size = 473
+	} 
 }
 #Dongola - Dongola (219000/54750 POPS)
 1835 = {
@@ -3659,9 +4509,19 @@
 	 } 
 	farmers = {
 		culture = nuba
-		religion =  protestant 
-		size = 43741
-	 } 
+		religion = protestant
+		size = 26245
+	}
+	craftsmen = {
+		culture = nuba
+		religion = protestant
+		size = 15309
+	}
+	clerks = {
+		culture = nuba
+		religion = protestant
+		size = 2187
+	} 
 	farmers = {
 		culture = nuba
 		religion = secularism
@@ -3677,14 +4537,34 @@
 1836 = {
 	farmers = {
 		culture = beja
-		religion =  sunni 
-		size = 13173
-	 } 
+		religion = sunni
+		size = 7905
+	}
+	craftsmen = {
+		culture = beja
+		religion = sunni
+		size = 4610
+	}
+	clerks = {
+		culture = beja
+		religion = sunni
+		size = 658
+	} 
 	farmers = {
 		culture = arab
-		religion =  sunni 
-		size = 5606
-	 } 
+		religion = sunni
+		size = 3364
+	}
+	craftsmen = {
+		culture = arab
+		religion = sunni
+		size = 1962
+	}
+	clerks = {
+		culture = arab
+		religion = sunni
+		size = 280
+	} 
 }
 #Atbara - Atbara (293000/73250 POPS)
 1837 = {
@@ -3695,9 +4575,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 65507
-	 } 
+		religion = sunni
+		size = 39305
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 22927
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 3275
+	} 
 }
 #Obeid - Obeid (541000/135250 POPS)
 1838 = {
@@ -3723,9 +4613,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 120953
-	 } 
+		religion = sunni
+		size = 72573
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 42333
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 6047
+	} 
 }
 #Nuhud - Abyei (282000/70500 POPS)
 1839 = {
@@ -3736,9 +4636,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 63046
-	 } 
+		religion = sunni
+		size = 37828
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 22066
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 3152
+	} 
 }
 #Kaduqli - South Kurdufan (237000/59250 POPS)
 1840 = {
@@ -3749,9 +4659,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 52986
-	 } 
+		religion = sunni
+		size = 31792
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 18545
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 2649
+	} 
 }
 #Fasher - Fasher (618000/154500 POPS)
 1841 = {
@@ -3827,9 +4747,19 @@
 	 } 
 	farmers = {
 		culture = fur
-		religion =  protestant 
-		size = 5630
-	 } 
+		religion = protestant
+		size = 3379
+	}
+	craftsmen = {
+		culture = fur
+		religion = protestant
+		size = 1970
+	}
+	clerks = {
+		culture = fur
+		religion = protestant
+		size = 281
+	} 
 	farmers = {
 		culture = fur
 		religion = secularism
@@ -3837,9 +4767,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 132407
-	 } 
+		religion = sunni
+		size = 79445
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 46342
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 6620
+	} 
 }
 #Junayah - Junayah (554000/138500 POPS)
 1842 = {
@@ -3915,9 +4855,19 @@
 	 } 
 	farmers = {
 		culture = fur
-		religion =  protestant 
-		size = 6401
-	 } 
+		religion = protestant
+		size = 3841
+	}
+	craftsmen = {
+		culture = fur
+		religion = protestant
+		size = 2240
+	}
+	clerks = {
+		culture = fur
+		religion = protestant
+		size = 320
+	} 
 	farmers = {
 		culture = fur
 		religion = secularism
@@ -3925,14 +4875,34 @@
 	 } 
 	farmers = {
 		culture = zaghawa
-		religion =  sunni 
-		size = 6925
-	 } 
+		religion = sunni
+		size = 4156
+	}
+	craftsmen = {
+		culture = zaghawa
+		religion = sunni
+		size = 2423
+	}
+	clerks = {
+		culture = zaghawa
+		religion = sunni
+		size = 346
+	} 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 110384
-	 } 
+		religion = sunni
+		size = 66231
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 38634
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 5519
+	} 
 }
 #Waw - Waw (252000/63000 POPS)
 1843 = {
@@ -4008,9 +4978,19 @@
 	 } 
 	farmers = {
 		culture = dinka
-		religion =  protestant 
-		size = 47250
-	 } 
+		religion = protestant
+		size = 28351
+	}
+	craftsmen = {
+		culture = dinka
+		religion = protestant
+		size = 16537
+	}
+	clerks = {
+		culture = dinka
+		religion = protestant
+		size = 2362
+	} 
 	farmers = {
 		culture = dinka
 		religion = secularism
@@ -4018,9 +4998,19 @@
 	 } 
 	farmers = {
 		culture = luo
-		religion =  protestant 
-		size = 7821
-	 } 
+		religion = protestant
+		size = 4693
+	}
+	craftsmen = {
+		culture = luo
+		religion = protestant
+		size = 2737
+	}
+	clerks = {
+		culture = luo
+		religion = protestant
+		size = 391
+	} 
 	farmers = {
 		culture = luo
 		religion = secularism
@@ -4111,9 +5101,19 @@
 	 } 
 	farmers = {
 		culture = nuer
-		religion =  protestant 
-		size = 20026
-	 } 
+		religion = protestant
+		size = 12016
+	}
+	craftsmen = {
+		culture = nuer
+		religion = protestant
+		size = 7009
+	}
+	clerks = {
+		culture = nuer
+		religion = protestant
+		size = 1001
+	} 
 	farmers = {
 		culture = nuer
 		religion = secularism
@@ -4121,9 +5121,19 @@
 	 } 
 	farmers = {
 		culture = dinka
-		religion =  protestant 
-		size = 114696
-	 } 
+		religion = protestant
+		size = 68819
+	}
+	craftsmen = {
+		culture = dinka
+		religion = protestant
+		size = 40143
+	}
+	clerks = {
+		culture = dinka
+		religion = protestant
+		size = 5734
+	} 
 	farmers = {
 		culture = dinka
 		religion = secularism
@@ -4131,9 +5141,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 24942
-	 } 
+		religion = catholic
+		size = 14966
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 8729
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 1247
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -4209,9 +5229,19 @@
 	 } 
 	farmers = {
 		culture = azande
-		religion =  protestant 
-		size = 30594
-	 } 
+		religion = protestant
+		size = 18358
+	}
+	craftsmen = {
+		culture = azande
+		religion = protestant
+		size = 10707
+	}
+	clerks = {
+		culture = azande
+		religion = protestant
+		size = 1529
+	} 
 	farmers = {
 		culture = azande
 		religion = secularism
@@ -4292,9 +5322,19 @@
 	 } 
 	farmers = {
 		culture = bari
-		religion =  protestant 
-		size = 22889
-	 } 
+		religion = protestant
+		size = 13734
+	}
+	craftsmen = {
+		culture = bari
+		religion = protestant
+		size = 8011
+	}
+	clerks = {
+		culture = bari
+		religion = protestant
+		size = 1144
+	} 
 	farmers = {
 		culture = bari
 		religion = secularism
@@ -4312,9 +5352,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 29100
-	 } 
+		religion = catholic
+		size = 17460
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 10185
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 1455
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -4405,9 +5455,19 @@
 	 } 
 	farmers = {
 		culture = nuer
-		religion =  protestant 
-		size = 52414
-	 } 
+		religion = protestant
+		size = 31450
+	}
+	craftsmen = {
+		culture = nuer
+		religion = protestant
+		size = 18344
+	}
+	clerks = {
+		culture = nuer
+		religion = protestant
+		size = 2620
+	} 
 	farmers = {
 		culture = nuer
 		religion = secularism
@@ -4415,9 +5475,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 59914
-	 } 
+		religion = catholic
+		size = 35950
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 20969
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 2995
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -4498,9 +5568,19 @@
 	 } 
 	farmers = {
 		culture = tigray
-		religion =  orthodox 
-		size = 129431
-	 } 
+		religion = orthodox
+		size = 77660
+	}
+	craftsmen = {
+		culture = tigray
+		religion = orthodox
+		size = 45300
+	}
+	clerks = {
+		culture = tigray
+		religion = orthodox
+		size = 6471
+	} 
 	farmers = {
 		culture = tigray
 		religion = secularism
@@ -4508,9 +5588,19 @@
 	 } 
 	farmers = {
 		culture = italian
-		religion =  catholic 
-		size = 7434
-	 } 
+		religion = catholic
+		size = 4462
+	}
+	craftsmen = {
+		culture = italian
+		religion = catholic
+		size = 2601
+	}
+	clerks = {
+		culture = italian
+		religion = catholic
+		size = 371
+	} 
 	farmers = {
 		culture = italian
 		religion = secularism
@@ -4591,9 +5681,19 @@
 	 } 
 	farmers = {
 		culture = tigray
-		religion =  orthodox 
-		size = 19506
-	 } 
+		religion = orthodox
+		size = 11704
+	}
+	craftsmen = {
+		culture = tigray
+		religion = orthodox
+		size = 6827
+	}
+	clerks = {
+		culture = tigray
+		religion = orthodox
+		size = 975
+	} 
 	farmers = {
 		culture = tigray
 		religion = secularism
@@ -4601,19 +5701,49 @@
 	 } 
 	farmers = {
 		culture = arab
-		religion =  sunni 
-		size = 6480
-	 } 
+		religion = sunni
+		size = 3888
+	}
+	craftsmen = {
+		culture = arab
+		religion = sunni
+		size = 2268
+	}
+	clerks = {
+		culture = arab
+		religion = sunni
+		size = 324
+	} 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 5400
-	 } 
+		religion = sunni
+		size = 3241
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 1889
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 270
+	} 
 	farmers = {
 		culture = tigre
-		religion =  sunni 
-		size = 17820
-	 } 
+		religion = sunni
+		size = 10692
+	}
+	craftsmen = {
+		culture = tigre
+		religion = sunni
+		size = 6237
+	}
+	clerks = {
+		culture = tigre
+		religion = sunni
+		size = 891
+	} 
 }
 #Akordat - Akordat (481000/120250 POPS)
 1850 = {
@@ -4689,9 +5819,19 @@
 	 } 
 	farmers = {
 		culture = tigray
-		religion =  orthodox 
-		size = 5920
-	 } 
+		religion = orthodox
+		size = 3552
+	}
+	craftsmen = {
+		culture = tigray
+		religion = orthodox
+		size = 2072
+	}
+	clerks = {
+		culture = tigray
+		religion = orthodox
+		size = 296
+	} 
 	farmers = {
 		culture = tigray
 		religion = secularism
@@ -4699,22 +5839,52 @@
 	 } 
 	farmers = {
 		culture = tigre
-		religion =  sunni 
-		size = 86580
-	 } 
+		religion = sunni
+		size = 51949
+	}
+	craftsmen = {
+		culture = tigre
+		religion = sunni
+		size = 30302
+	}
+	clerks = {
+		culture = tigre
+		religion = sunni
+		size = 4329
+	} 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 18037
-	 } 
+		religion = sunni
+		size = 10824
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 6312
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 901
+	} 
 }
 #Assab - Assab (93000/23250 POPS)
 1851 = {
 	farmers = {
 		culture = afar
-		religion =  sunni 
-		size = 15591
-	 } 
+		religion = sunni
+		size = 9356
+	}
+	craftsmen = {
+		culture = afar
+		religion = sunni
+		size = 5456
+	}
+	clerks = {
+		culture = afar
+		religion = sunni
+		size = 779
+	} 
 	farmers = {
 		culture = italian
 		religion =  catholic 
@@ -4755,14 +5925,34 @@
 	 } 
 	farmers = {
 		culture = somali
-		religion =  sunni 
-		size = 114279
-	 } 
+		religion = sunni
+		size = 68569
+	}
+	craftsmen = {
+		culture = somali
+		religion = sunni
+		size = 39997
+	}
+	clerks = {
+		culture = somali
+		religion = sunni
+		size = 5713
+	} 
 	farmers = {
 		culture = italian
-		religion =  catholic 
-		size = 5940
-	 } 
+		religion = catholic
+		size = 3564
+	}
+	craftsmen = {
+		culture = italian
+		religion = catholic
+		size = 2079
+	}
+	clerks = {
+		culture = italian
+		religion = catholic
+		size = 297
+	} 
 	farmers = {
 		culture = italian
 		religion = secularism
@@ -4770,9 +5960,19 @@
 	 } 
 	farmers = {
 		culture = swahili
-		religion =  sunni 
-		size = 7462
-	 } 
+		religion = sunni
+		size = 4478
+	}
+	craftsmen = {
+		culture = swahili
+		religion = sunni
+		size = 2611
+	}
+	clerks = {
+		culture = swahili
+		religion = sunni
+		size = 373
+	} 
 	farmers = {
 		culture = arab
 		religion =  sunni 
@@ -4788,9 +5988,19 @@
 	 } 
 	farmers = {
 		culture = somali
-		religion =  sunni 
-		size = 56668
-	 } 
+		religion = sunni
+		size = 34002
+	}
+	craftsmen = {
+		culture = somali
+		religion = sunni
+		size = 19833
+	}
+	clerks = {
+		culture = somali
+		religion = sunni
+		size = 2833
+	} 
 }
 #Kismayo - Kismayo (257000/64250 POPS)
 1870 = {
@@ -4801,9 +6011,19 @@
 	 } 
 	farmers = {
 		culture = mushunguli
-		religion =  sunni 
-		size = 52410
-	 } 
+		religion = sunni
+		size = 31447
+	}
+	craftsmen = {
+		culture = mushunguli
+		religion = sunni
+		size = 18343
+	}
+	clerks = {
+		culture = mushunguli
+		religion = sunni
+		size = 2620
+	} 
 	farmers = {
 		culture = somali
 		religion =  sunni 
@@ -4819,9 +6039,19 @@
 	 } 
 	farmers = {
 		culture = somali
-		religion =  sunni 
-		size = 56668
-	 } 
+		religion = sunni
+		size = 34002
+	}
+	craftsmen = {
+		culture = somali
+		religion = sunni
+		size = 19833
+	}
+	clerks = {
+		culture = somali
+		religion = sunni
+		size = 2833
+	} 
 }
 #Busaso - Busaso (251000/62750 POPS)
 1872 = {
@@ -4832,9 +6062,19 @@
 	 } 
 	farmers = {
 		culture = somali
-		religion =  sunni 
-		size = 55344
-	 } 
+		religion = sunni
+		size = 33207
+	}
+	craftsmen = {
+		culture = somali
+		religion = sunni
+		size = 19370
+	}
+	clerks = {
+		culture = somali
+		religion = sunni
+		size = 2767
+	} 
 }
 #berbera - berbera (409000/102250 POPS)
 1873 = {
@@ -4860,9 +6100,19 @@
 	 } 
 	farmers = {
 		culture = somali
-		religion =  sunni 
-		size = 90182
-	 } 
+		religion = sunni
+		size = 54110
+	}
+	craftsmen = {
+		culture = somali
+		religion = sunni
+		size = 31563
+	}
+	clerks = {
+		culture = somali
+		religion = sunni
+		size = 4509
+	} 
 }
 #Zeyla - Zeyla (409000/102250 POPS)
 1874 = {
@@ -4888,9 +6138,19 @@
 	 } 
 	farmers = {
 		culture = somali
-		religion =  sunni 
-		size = 90182
-	 } 
+		religion = sunni
+		size = 54110
+	}
+	craftsmen = {
+		culture = somali
+		religion = sunni
+		size = 31563
+	}
+	clerks = {
+		culture = somali
+		religion = sunni
+		size = 4509
+	} 
 }
 #Freetown - Freetown (1028000/257000 POPS)
 1884 = {
@@ -4946,14 +6206,34 @@
 	 } 
 	farmers = {
 		culture = temne
-		religion =  sunni 
-		size = 170944
-	 } 
+		religion = sunni
+		size = 102567
+	}
+	craftsmen = {
+		culture = temne
+		religion = sunni
+		size = 59830
+	}
+	clerks = {
+		culture = temne
+		religion = sunni
+		size = 8547
+	} 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 54536
-	 } 
+		religion = catholic
+		size = 32723
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 19087
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 2726
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -5029,9 +6309,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 52238
-	 } 
+		religion = catholic
+		size = 31344
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 18283
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 2611
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -5039,9 +6329,19 @@
 	 } 
 	farmers = {
 		culture = mende
-		religion =  sunni 
-		size = 84801
-	 } 
+		religion = sunni
+		size = 50881
+	}
+	craftsmen = {
+		culture = mende
+		religion = sunni
+		size = 29680
+	}
+	clerks = {
+		culture = mende
+		religion = sunni
+		size = 4240
+	} 
 }
 #Bo - Bo (432000/108000 POPS)
 1886 = {
@@ -5067,14 +6367,34 @@
 	 } 
 	farmers = {
 		culture = mende
-		religion =  sunni 
-		size = 62117
-	 } 
+		religion = sunni
+		size = 37272
+	}
+	craftsmen = {
+		culture = mende
+		religion = sunni
+		size = 21740
+	}
+	clerks = {
+		culture = mende
+		religion = sunni
+		size = 3105
+	} 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 32694
-	 } 
+		religion = sunni
+		size = 19618
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 11442
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 1634
+	} 
 }
 #Accra - Greater Accra (855000/213750 POPS)
 1907 = {
@@ -5160,9 +6480,19 @@
 	 } 
 	farmers = {
 		culture = akan
-		religion =  protestant 
-		size = 46554
-	 } 
+		religion = protestant
+		size = 27934
+	}
+	craftsmen = {
+		culture = akan
+		religion = protestant
+		size = 16293
+	}
+	clerks = {
+		culture = akan
+		religion = protestant
+		size = 2327
+	} 
 	farmers = {
 		culture = akan
 		religion = secularism
@@ -5170,9 +6500,19 @@
 	 } 
 	farmers = {
 		culture = ewe
-		religion =  catholic 
-		size = 90992
-	 } 
+		religion = catholic
+		size = 54596
+	}
+	craftsmen = {
+		culture = ewe
+		religion = catholic
+		size = 31847
+	}
+	clerks = {
+		culture = ewe
+		religion = catholic
+		size = 4549
+	} 
 	farmers = {
 		culture = ewe
 		religion = secularism
@@ -5180,9 +6520,19 @@
 	 } 
 	farmers = {
 		culture = ga_adangbe
-		religion =  protestant 
-		size = 38621
-	 } 
+		religion = protestant
+		size = 23173
+	}
+	craftsmen = {
+		culture = ga_adangbe
+		religion = protestant
+		size = 13517
+	}
+	clerks = {
+		culture = ga_adangbe
+		religion = protestant
+		size = 1931
+	} 
 	farmers = {
 		culture = ga_adangbe
 		religion = secularism
@@ -5263,9 +6613,19 @@
 	 } 
 	farmers = {
 		culture = akan
-		religion =  protestant 
-		size = 105596
-	 } 
+		religion = protestant
+		size = 63359
+	}
+	craftsmen = {
+		culture = akan
+		religion = protestant
+		size = 36958
+	}
+	clerks = {
+		culture = akan
+		religion = protestant
+		size = 5279
+	} 
 	farmers = {
 		culture = akan
 		religion = secularism
@@ -5346,9 +6706,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 105596
-	 } 
+		religion = catholic
+		size = 63359
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 36958
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 5279
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -5429,9 +6799,19 @@
 	 } 
 	farmers = {
 		culture = akan
-		religion =  protestant 
-		size = 329936
-	 } 
+		religion = protestant
+		size = 197963
+	}
+	craftsmen = {
+		culture = akan
+		religion = protestant
+		size = 115477
+	}
+	clerks = {
+		culture = akan
+		religion = protestant
+		size = 16496
+	} 
 	farmers = {
 		culture = akan
 		religion = secularism
@@ -5512,9 +6892,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 34176
-	 } 
+		religion = catholic
+		size = 20507
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 11961
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 1708
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -5522,14 +6912,34 @@
 	 } 
 	farmers = {
 		culture = mossi
-		religion =  sunni 
-		size = 12300
-	 } 
+		religion = sunni
+		size = 7380
+	}
+	craftsmen = {
+		culture = mossi
+		religion = sunni
+		size = 4305
+	}
+	clerks = {
+		culture = mossi
+		religion = sunni
+		size = 615
+	} 
 	farmers = {
 		culture = akan
-		religion =  protestant 
-		size = 56321
-	 } 
+		religion = protestant
+		size = 33793
+	}
+	craftsmen = {
+		culture = akan
+		religion = protestant
+		size = 19712
+	}
+	clerks = {
+		culture = akan
+		religion = protestant
+		size = 2816
+	} 
 	farmers = {
 		culture = akan
 		religion = secularism
@@ -5560,9 +6970,19 @@
 	 } 
 	farmers = {
 		culture = mossi
-		religion =  sunni 
-		size = 107008
-	 } 
+		religion = sunni
+		size = 64206
+	}
+	craftsmen = {
+		culture = mossi
+		religion = sunni
+		size = 37452
+	}
+	clerks = {
+		culture = mossi
+		religion = sunni
+		size = 5350
+	} 
 	farmers = {
 		culture = akan
 		religion =  protestant 
@@ -5583,9 +7003,19 @@
 	 } 
 	farmers = {
 		culture = mossi
-		religion =  sunni 
-		size = 31410
-	 } 
+		religion = sunni
+		size = 18847
+	}
+	craftsmen = {
+		culture = mossi
+		religion = sunni
+		size = 10993
+	}
+	clerks = {
+		culture = mossi
+		religion = sunni
+		size = 1570
+	} 
 }
 #Ho - Volta (451000/112750 POPS)
 1915 = {
@@ -5661,9 +7091,19 @@
 	 } 
 	farmers = {
 		culture = ewe
-		religion =  catholic 
-		size = 59236
-	 } 
+		religion = catholic
+		size = 35543
+	}
+	craftsmen = {
+		culture = ewe
+		religion = catholic
+		size = 20732
+	}
+	clerks = {
+		culture = ewe
+		religion = catholic
+		size = 2961
+	} 
 	farmers = {
 		culture = ewe
 		religion = secularism
@@ -5671,9 +7111,19 @@
 	 } 
 	farmers = {
 		culture = ga_adangbe
-		religion =  protestant 
-		size = 34881
-	 } 
+		religion = protestant
+		size = 20929
+	}
+	craftsmen = {
+		culture = ga_adangbe
+		religion = protestant
+		size = 12208
+	}
+	clerks = {
+		culture = ga_adangbe
+		religion = protestant
+		size = 1744
+	} 
 	farmers = {
 		culture = ga_adangbe
 		religion = secularism
@@ -5694,9 +7144,19 @@
 	 } 
 	farmers = {
 		culture = mossi
-		religion =  sunni 
-		size = 47007
-	 } 
+		religion = sunni
+		size = 28205
+	}
+	craftsmen = {
+		culture = mossi
+		religion = sunni
+		size = 16452
+	}
+	clerks = {
+		culture = mossi
+		religion = sunni
+		size = 2350
+	} 
 }
 #Lagos - Lagos (1967000/491750 POPS)
 1923 = {
@@ -5772,14 +7232,34 @@
 	 } 
 	farmers = {
 		culture = yoruba
-		religion =  protestant 
-		size = 397884
-	 } 
+		religion = protestant
+		size = 238731
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = protestant
+		size = 139259
+	}
+	clerks = {
+		culture = yoruba
+		religion = protestant
+		size = 19894
+	} 
 	farmers = {
 		culture = yoruba
 		religion = secularism
-		size = 19842
-	 } 
+		size = 11906
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = secularism
+		size = 6944
+	}
+	clerks = {
+		culture = yoruba
+		religion = secularism
+		size = 992
+	} 
 }
 #Abeokuta - Ogun (818000/204500 POPS)
 1924 = {
@@ -5855,14 +7335,34 @@
 	 } 
 	farmers = {
 		culture = yoruba
-		religion =  protestant 
-		size = 165464
-	 } 
+		religion = protestant
+		size = 99279
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = protestant
+		size = 57912
+	}
+	clerks = {
+		culture = yoruba
+		religion = protestant
+		size = 8273
+	} 
 	farmers = {
 		culture = yoruba
 		religion = secularism
-		size = 8251
-	 } 
+		size = 4952
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = secularism
+		size = 2887
+	}
+	clerks = {
+		culture = yoruba
+		religion = secularism
+		size = 412
+	} 
 }
 #Ibadan - Oyo,Osun (1699000/424750 POPS)
 1925 = {
@@ -5938,14 +7438,34 @@
 	 } 
 	farmers = {
 		culture = yoruba
-		religion =  protestant 
-		size = 343672
-	 } 
+		religion = protestant
+		size = 206204
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = protestant
+		size = 120285
+	}
+	clerks = {
+		culture = yoruba
+		religion = protestant
+		size = 17183
+	} 
 	farmers = {
 		culture = yoruba
 		religion = secularism
-		size = 17138
-	 } 
+		size = 10284
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = secularism
+		size = 5998
+	}
+	clerks = {
+		culture = yoruba
+		religion = secularism
+		size = 856
+	} 
 }
 #Ife - Ondo (750000/187500 POPS)
 1926 = {
@@ -6021,14 +7541,34 @@
 	 } 
 	farmers = {
 		culture = yoruba
-		religion =  protestant 
-		size = 151710
-	 } 
+		religion = protestant
+		size = 91027
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = protestant
+		size = 53098
+	}
+	clerks = {
+		culture = yoruba
+		religion = protestant
+		size = 7585
+	} 
 	farmers = {
 		culture = yoruba
 		religion = secularism
-		size = 7565
-	 } 
+		size = 4540
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = secularism
+		size = 2647
+	}
+	clerks = {
+		culture = yoruba
+		religion = secularism
+		size = 378
+	} 
 }
 #Ilorin - Kwara (565000/141250 POPS)
 1927 = {
@@ -6104,14 +7644,34 @@
 	 } 
 	farmers = {
 		culture = yoruba
-		religion =  protestant 
-		size = 114288
-	 } 
+		religion = protestant
+		size = 68574
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = protestant
+		size = 40000
+	}
+	clerks = {
+		culture = yoruba
+		religion = protestant
+		size = 5714
+	} 
 	farmers = {
 		culture = yoruba
 		religion = secularism
-		size = 5699
-	 } 
+		size = 3421
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = secularism
+		size = 1994
+	}
+	clerks = {
+		culture = yoruba
+		religion = secularism
+		size = 284
+	} 
 }
 #Benin - Edo (762000/190500 POPS)
 1928 = {
@@ -6187,14 +7747,34 @@
 	 } 
 	farmers = {
 		culture = igbo
-		religion =  protestant 
-		size = 154137
-	 } 
+		religion = protestant
+		size = 92484
+	}
+	craftsmen = {
+		culture = igbo
+		religion = protestant
+		size = 53947
+	}
+	clerks = {
+		culture = igbo
+		religion = protestant
+		size = 7706
+	} 
 	farmers = {
 		culture = igbo
 		religion = secularism
-		size = 7686
-	 } 
+		size = 4612
+	}
+	craftsmen = {
+		culture = igbo
+		religion = secularism
+		size = 2690
+	}
+	clerks = {
+		culture = igbo
+		religion = secularism
+		size = 384
+	} 
 }
 #Akure - Ekiti (596000/149000 POPS)
 1929 = {
@@ -6270,9 +7850,19 @@
 	 } 
 	farmers = {
 		culture = yoruba
-		religion =  protestant 
-		size = 45623
-	 } 
+		religion = protestant
+		size = 27374
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = protestant
+		size = 15968
+	}
+	clerks = {
+		culture = yoruba
+		religion = protestant
+		size = 2281
+	} 
 	farmers = {
 		culture = yoruba
 		religion = secularism
@@ -6280,9 +7870,19 @@
 	 } 
 	farmers = {
 		culture = igbo
-		religion =  protestant 
-		size = 9934
-	 } 
+		religion = protestant
+		size = 5962
+	}
+	craftsmen = {
+		culture = igbo
+		religion = protestant
+		size = 3476
+	}
+	clerks = {
+		culture = igbo
+		religion = protestant
+		size = 496
+	} 
 	farmers = {
 		culture = igbo
 		religion = secularism
@@ -6290,9 +7890,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 64999
-	 } 
+		religion = catholic
+		size = 39001
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 22749
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 3249
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -6373,19 +7983,49 @@
 	 } 
 	farmers = {
 		culture = yoruba
-		religion =  protestant 
-		size = 132825
-	 } 
+		religion = protestant
+		size = 79696
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = protestant
+		size = 46488
+	}
+	clerks = {
+		culture = yoruba
+		religion = protestant
+		size = 6641
+	} 
 	farmers = {
 		culture = yoruba
 		religion = secularism
-		size = 6623
-	 } 
+		size = 3974
+	}
+	craftsmen = {
+		culture = yoruba
+		religion = secularism
+		size = 2318
+	}
+	clerks = {
+		culture = yoruba
+		religion = secularism
+		size = 331
+	} 
 	farmers = {
 		culture = ibo
-		religion =  protestant 
-		size = 25761
-	 } 
+		religion = protestant
+		size = 15457
+	}
+	craftsmen = {
+		culture = ibo
+		religion = protestant
+		size = 9016
+	}
+	clerks = {
+		culture = ibo
+		religion = protestant
+		size = 1288
+	} 
 	farmers = {
 		culture = ibo
 		religion = secularism
@@ -6466,9 +8106,19 @@
 	 } 
 	farmers = {
 		culture = ijaw
-		religion =  protestant 
-		size = 14235
-	 } 
+		religion = protestant
+		size = 8542
+	}
+	craftsmen = {
+		culture = ijaw
+		religion = protestant
+		size = 4982
+	}
+	clerks = {
+		culture = ijaw
+		religion = protestant
+		size = 711
+	} 
 	farmers = {
 		culture = ijaw
 		religion = secularism
@@ -6476,9 +8126,19 @@
 	 } 
 	farmers = {
 		culture = igbo
-		religion =  protestant 
-		size = 36175
-	 } 
+		religion = protestant
+		size = 21706
+	}
+	craftsmen = {
+		culture = igbo
+		religion = protestant
+		size = 12661
+	}
+	clerks = {
+		culture = igbo
+		religion = protestant
+		size = 1808
+	} 
 	farmers = {
 		culture = igbo
 		religion = secularism
@@ -6486,14 +8146,34 @@
 	 } 
 	farmers = {
 		culture = ibo
-		religion =  protestant 
-		size = 333718
-	 } 
+		religion = protestant
+		size = 200232
+	}
+	craftsmen = {
+		culture = ibo
+		religion = protestant
+		size = 116801
+	}
+	clerks = {
+		culture = ibo
+		religion = protestant
+		size = 16685
+	} 
 	farmers = {
 		culture = ibo
 		religion = secularism
-		size = 16642
-	 } 
+		size = 9986
+	}
+	craftsmen = {
+		culture = ibo
+		religion = secularism
+		size = 5824
+	}
+	clerks = {
+		culture = ibo
+		religion = secularism
+		size = 832
+	} 
 }
 #Bonny - Rivers (1458000/364500 POPS)
 1932 = {
@@ -6569,9 +8249,19 @@
 	 } 
 	farmers = {
 		culture = ijaw
-		religion =  protestant 
-		size = 69949
-	 } 
+		religion = protestant
+		size = 41970
+	}
+	craftsmen = {
+		culture = ijaw
+		religion = protestant
+		size = 24482
+	}
+	clerks = {
+		culture = ijaw
+		religion = protestant
+		size = 3497
+	} 
 	farmers = {
 		culture = ijaw
 		religion = secularism
@@ -6579,14 +8269,34 @@
 	 } 
 	farmers = {
 		culture = ibibio
-		religion =  protestant 
-		size = 224973
-	 } 
+		religion = protestant
+		size = 134985
+	}
+	craftsmen = {
+		culture = ibibio
+		religion = protestant
+		size = 78740
+	}
+	clerks = {
+		culture = ibibio
+		religion = protestant
+		size = 11248
+	} 
 	farmers = {
 		culture = ibibio
 		religion = secularism
-		size = 11219
-	 } 
+		size = 6733
+	}
+	craftsmen = {
+		culture = ibibio
+		religion = secularism
+		size = 3926
+	}
+	clerks = {
+		culture = ibibio
+		religion = secularism
+		size = 560
+	} 
 }
 #Awka - Imo, Anaba (1596000/399000 POPS)
 1933 = {
@@ -6662,14 +8372,34 @@
 	 } 
 	farmers = {
 		culture = ibo
-		religion =  protestant 
-		size = 322837
-	 } 
+		religion = protestant
+		size = 193704
+	}
+	craftsmen = {
+		culture = ibo
+		religion = protestant
+		size = 112992
+	}
+	clerks = {
+		culture = ibo
+		religion = protestant
+		size = 16141
+	} 
 	farmers = {
 		culture = ibo
 		religion = secularism
-		size = 16099
-	 } 
+		size = 9661
+	}
+	craftsmen = {
+		culture = ibo
+		religion = secularism
+		size = 5634
+	}
+	clerks = {
+		culture = ibo
+		religion = secularism
+		size = 804
+	} 
 }
 #Calabar - Akwa Ibom, Cross River (1191000/297750 POPS)
 1934 = {
@@ -6745,14 +8475,34 @@
 	 } 
 	farmers = {
 		culture = ibibio
-		religion =  protestant 
-		size = 240914
-	 } 
+		religion = protestant
+		size = 144550
+	}
+	craftsmen = {
+		culture = ibibio
+		religion = protestant
+		size = 84319
+	}
+	clerks = {
+		culture = ibibio
+		religion = protestant
+		size = 12045
+	} 
 	farmers = {
 		culture = ibibio
 		religion = secularism
-		size = 12014
-	 } 
+		size = 7210
+	}
+	craftsmen = {
+		culture = ibibio
+		religion = secularism
+		size = 4204
+	}
+	clerks = {
+		culture = ibibio
+		religion = secularism
+		size = 600
+	} 
 }
 #Aruchukwu - Ebonyi,Enugu (1158000/289500 POPS)
 1935 = {
@@ -6828,14 +8578,34 @@
 	 } 
 	farmers = {
 		culture = ibo
-		religion =  protestant 
-		size = 234240
-	 } 
+		religion = protestant
+		size = 140544
+	}
+	craftsmen = {
+		culture = ibo
+		religion = protestant
+		size = 81984
+	}
+	clerks = {
+		culture = ibo
+		religion = protestant
+		size = 11712
+	} 
 	farmers = {
 		culture = ibo
 		religion = secularism
-		size = 11681
-	 } 
+		size = 7009
+	}
+	craftsmen = {
+		culture = ibo
+		religion = secularism
+		size = 4088
+	}
+	clerks = {
+		culture = ibo
+		religion = secularism
+		size = 584
+	} 
 }
 #Makurdi - Benue (923000/230750 POPS)
 1936 = {
@@ -6866,14 +8636,34 @@
 	 } 
 	farmers = {
 		culture = tiv
-		religion =  sunni 
-		size = 178020
-	 } 
+		religion = sunni
+		size = 106813
+	}
+	craftsmen = {
+		culture = tiv
+		religion = sunni
+		size = 62306
+	}
+	clerks = {
+		culture = tiv
+		religion = sunni
+		size = 8901
+	} 
 	farmers = {
 		culture = ibo
-		religion =  protestant 
-		size = 17140
-	 } 
+		religion = protestant
+		size = 10284
+	}
+	craftsmen = {
+		culture = ibo
+		religion = protestant
+		size = 5999
+	}
+	clerks = {
+		culture = ibo
+		religion = protestant
+		size = 857
+	} 
 	farmers = {
 		culture = ibo
 		religion = secularism
@@ -6904,9 +8694,19 @@
 	 } 
 	farmers = {
 		culture = nupe
-		religion =  sunni 
-		size = 124448
-	 } 
+		religion = sunni
+		size = 74670
+	}
+	craftsmen = {
+		culture = nupe
+		religion = sunni
+		size = 43556
+	}
+	clerks = {
+		culture = nupe
+		religion = sunni
+		size = 6222
+	} 
 }
 #Bussa - Niger (430000/107500 POPS)
 1938 = {
@@ -6932,14 +8732,34 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 8760
-	 } 
+		religion = sunni
+		size = 5256
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 3066
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 438
+	} 
 	farmers = {
 		culture = fula
-		religion =  sunni 
-		size = 82558
-	 } 
+		religion = sunni
+		size = 49536
+	}
+	craftsmen = {
+		culture = fula
+		religion = sunni
+		size = 28895
+	}
+	clerks = {
+		culture = fula
+		religion = sunni
+		size = 4127
+	} 
 }
 #Zaria - Kaduna (1322000/330500 POPS)
 1939 = {
@@ -6970,9 +8790,19 @@
 	 } 
 	farmers = {
 		culture = fula
-		religion =  sunni 
-		size = 280751
-	 } 
+		religion = sunni
+		size = 168452
+	}
+	craftsmen = {
+		culture = fula
+		religion = sunni
+		size = 98262
+	}
+	clerks = {
+		culture = fula
+		religion = sunni
+		size = 14037
+	} 
 }
 #Bida - Niger (430000/107500 POPS)
 1940 = {
@@ -6998,9 +8828,19 @@
 	 } 
 	farmers = {
 		culture = fula
-		religion =  sunni 
-		size = 91318
-	 } 
+		religion = sunni
+		size = 54792
+	}
+	craftsmen = {
+		culture = fula
+		religion = sunni
+		size = 31961
+	}
+	clerks = {
+		culture = fula
+		religion = sunni
+		size = 4565
+	} 
 }
 #Abuja - Abuja (306000/76500 POPS)
 1941 = {
@@ -7076,9 +8916,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 30713
-	 } 
+		religion = protestant
+		size = 18429
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 10749
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 1535
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -7086,9 +8936,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 32739
-	 } 
+		religion = sunni
+		size = 19645
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 11458
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 1636
+	} 
 }
 #Bauchi - Bauchi (1010000/252500 POPS)
 1942 = {
@@ -7119,14 +8979,34 @@
 	 } 
 	farmers = {
 		culture = hausa
-		religion =  sunni 
-		size = 38249
-	 } 
+		religion = sunni
+		size = 22950
+	}
+	craftsmen = {
+		culture = hausa
+		religion = sunni
+		size = 13387
+	}
+	clerks = {
+		culture = hausa
+		religion = sunni
+		size = 1912
+	} 
 	farmers = {
 		culture = fula
-		religion =  sunni 
-		size = 176242
-	 } 
+		religion = sunni
+		size = 105746
+	}
+	craftsmen = {
+		culture = fula
+		religion = sunni
+		size = 61684
+	}
+	clerks = {
+		culture = fula
+		religion = sunni
+		size = 8812
+	} 
 }
 #Jos - Nassarawa, Plateau (1138000/284500 POPS)
 1943 = {
@@ -7157,14 +9037,34 @@
 	 } 
 	farmers = {
 		culture = nupe
-		religion =  sunni 
-		size = 31716
-	 } 
+		religion = sunni
+		size = 19031
+	}
+	craftsmen = {
+		culture = nupe
+		religion = sunni
+		size = 11100
+	}
+	clerks = {
+		culture = nupe
+		religion = sunni
+		size = 1585
+	} 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 13549
-	 } 
+		religion = catholic
+		size = 8130
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 4742
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 677
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -7172,14 +9072,34 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 71125
-	 } 
+		religion = sunni
+		size = 42676
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 24893
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 3556
+	} 
 	farmers = {
 		culture = fula
-		religion =  sunni 
-		size = 124607
-	 } 
+		religion = sunni
+		size = 74765
+	}
+	craftsmen = {
+		culture = fula
+		religion = sunni
+		size = 43612
+	}
+	clerks = {
+		culture = fula
+		religion = sunni
+		size = 6230
+	} 
 }
 #Gombe - Gombe (513000/128250 POPS)
 1944 = {
@@ -7205,14 +9125,34 @@
 	 } 
 	farmers = {
 		culture = hausa
-		religion =  sunni 
-		size = 52774
-	 } 
+		religion = sunni
+		size = 31666
+	}
+	craftsmen = {
+		culture = hausa
+		religion = sunni
+		size = 18470
+	}
+	clerks = {
+		culture = hausa
+		religion = sunni
+		size = 2638
+	} 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 53502
-	 } 
+		religion = catholic
+		size = 32102
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 18725
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 2675
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -7253,9 +9193,19 @@
 	 } 
 	farmers = {
 		culture = hausa
-		religion =  sunni 
-		size = 512018
-	 } 
+		religion = sunni
+		size = 307212
+	}
+	craftsmen = {
+		culture = hausa
+		religion = sunni
+		size = 179206
+	}
+	clerks = {
+		culture = hausa
+		religion = sunni
+		size = 25600
+	} 
 }
 #Kebbi - Kebbi (791000/197750 POPS)
 1946 = {
@@ -7281,14 +9231,34 @@
 	 } 
 	farmers = {
 		culture = hausa
-		religion =  sunni 
-		size = 140697
-	 } 
+		religion = sunni
+		size = 84420
+	}
+	craftsmen = {
+		culture = hausa
+		religion = sunni
+		size = 49243
+	}
+	clerks = {
+		culture = hausa
+		religion = sunni
+		size = 7034
+	} 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 25989
-	 } 
+		religion = catholic
+		size = 15594
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 9096
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 1299
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -7329,9 +9299,19 @@
 	 } 
 	farmers = {
 		culture = hausa
-		religion =  sunni 
-		size = 300075
-	 } 
+		religion = sunni
+		size = 180046
+	}
+	craftsmen = {
+		culture = hausa
+		religion = sunni
+		size = 105026
+	}
+	clerks = {
+		culture = hausa
+		religion = sunni
+		size = 15003
+	} 
 }
 #Sokoto - Sokoto, Zamfara (1762000/440500 POPS)
 1948 = {
@@ -7367,14 +9347,34 @@
 	 } 
 	farmers = {
 		culture = hausa
-		religion =  sunni 
-		size = 357456
-	 } 
+		religion = sunni
+		size = 214475
+	}
+	craftsmen = {
+		culture = hausa
+		religion = sunni
+		size = 125109
+	}
+	clerks = {
+		culture = hausa
+		religion = sunni
+		size = 17872
+	} 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 15940
-	 } 
+		religion = catholic
+		size = 9564
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 5579
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 797
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -7410,9 +9410,19 @@
 	 } 
 	farmers = {
 		culture = hausa
-		religion =  sunni 
-		size = 230843
-	 } 
+		religion = sunni
+		size = 138506
+	}
+	craftsmen = {
+		culture = hausa
+		religion = sunni
+		size = 80795
+	}
+	clerks = {
+		culture = hausa
+		religion = sunni
+		size = 11542
+	} 
 }
 #Yola - Adaamawa (815000/203750 POPS)
 1950 = {
@@ -7443,9 +9453,19 @@
 	 } 
 	farmers = {
 		culture = fula
-		religion =  sunni 
-		size = 173079
-	 } 
+		religion = sunni
+		size = 103849
+	}
+	craftsmen = {
+		culture = fula
+		religion = sunni
+		size = 60577
+	}
+	clerks = {
+		culture = fula
+		religion = sunni
+		size = 8653
+	} 
 }
 #Kuka - Borno (500000/125000 POPS)
 1951 = {
@@ -7521,14 +9541,34 @@
 	 } 
 	farmers = {
 		culture = kanuri
-		religion =  catholic 
-		size = 101140
-	 } 
+		religion = catholic
+		size = 60684
+	}
+	craftsmen = {
+		culture = kanuri
+		religion = catholic
+		size = 35399
+	}
+	clerks = {
+		culture = kanuri
+		religion = catholic
+		size = 5057
+	} 
 	farmers = {
 		culture = kanuri
 		religion = secularism
-		size = 5043
-	 } 
+		size = 3026
+	}
+	craftsmen = {
+		culture = kanuri
+		religion = secularism
+		size = 1765
+	}
+	clerks = {
+		culture = kanuri
+		religion = secularism
+		size = 252
+	} 
 }
 #Nguru - Yobe (601000/150250 POPS)
 1952 = {
@@ -7604,9 +9644,19 @@
 	 } 
 	farmers = {
 		culture = kanuri
-		religion =  catholic 
-		size = 51733
-	 } 
+		religion = catholic
+		size = 31041
+	}
+	craftsmen = {
+		culture = kanuri
+		religion = catholic
+		size = 18106
+	}
+	clerks = {
+		culture = kanuri
+		religion = catholic
+		size = 2586
+	} 
 	farmers = {
 		culture = kanuri
 		religion = secularism
@@ -7614,9 +9664,19 @@
 	 } 
 	farmers = {
 		culture = fula
-		religion =  sunni 
-		size = 73320
-	 } 
+		religion = sunni
+		size = 43992
+	}
+	craftsmen = {
+		culture = fula
+		religion = sunni
+		size = 25662
+	}
+	clerks = {
+		culture = fula
+		religion = sunni
+		size = 3666
+	} 
 }
 #Dikoa - Borno (500000/125000 POPS)
 1953 = {
@@ -7692,14 +9752,34 @@
 	 } 
 	farmers = {
 		culture = kanuri
-		religion =  catholic 
-		size = 101140
-	 } 
+		religion = catholic
+		size = 60684
+	}
+	craftsmen = {
+		culture = kanuri
+		religion = catholic
+		size = 35399
+	}
+	clerks = {
+		culture = kanuri
+		religion = catholic
+		size = 5057
+	} 
 	farmers = {
 		culture = kanuri
 		religion = secularism
-		size = 5043
-	 } 
+		size = 3026
+	}
+	craftsmen = {
+		culture = kanuri
+		religion = secularism
+		size = 1765
+	}
+	clerks = {
+		culture = kanuri
+		religion = secularism
+		size = 252
+	} 
 }
 #Buea - Southwest (368000/92000 POPS)
 1957 = {
@@ -7775,9 +9855,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 64394
-	 } 
+		religion = protestant
+		size = 38638
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 22537
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 3219
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -7785,9 +9875,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 11964
-	 } 
+		religion = catholic
+		size = 7179
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 4187
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 598
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -7868,9 +9968,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 13156
-	 } 
+		religion = protestant
+		size = 7895
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 4604
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 657
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -7878,9 +9988,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 87065
-	 } 
+		religion = catholic
+		size = 52240
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 30472
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 4353
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -7956,9 +10076,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 9181
-	 } 
+		religion = protestant
+		size = 5509
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 3213
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 459
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -8059,9 +10189,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 49900
-	 } 
+		religion = protestant
+		size = 29940
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 17465
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 2495
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -8069,9 +10209,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 26900
-	 } 
+		religion = catholic
+		size = 16140
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 9415
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 1345
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -8079,9 +10229,19 @@
 	 } 
 	farmers = {
 		culture = tonga
-		religion =  protestant 
-		size = 16124
-	 } 
+		religion = protestant
+		size = 9675
+	}
+	craftsmen = {
+		culture = tonga
+		religion = protestant
+		size = 5643
+	}
+	clerks = {
+		culture = tonga
+		religion = protestant
+		size = 806
+	} 
 	farmers = {
 		culture = tonga
 		religion = secularism
@@ -8177,9 +10337,19 @@
 	 } 
 	farmers = {
 		culture = lozi
-		religion =  protestant 
-		size = 21797
-	 } 
+		religion = protestant
+		size = 13080
+	}
+	craftsmen = {
+		culture = lozi
+		religion = protestant
+		size = 7628
+	}
+	clerks = {
+		culture = lozi
+		religion = protestant
+		size = 1089
+	} 
 	farmers = {
 		culture = lozi
 		religion = secularism
@@ -8250,9 +10420,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 19072
-	 } 
+		religion = catholic
+		size = 11444
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 6675
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 953
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -8328,9 +10508,19 @@
 	 } 
 	farmers = {
 		culture = tonga
-		religion =  protestant 
-		size = 34000
-	 } 
+		religion = protestant
+		size = 20400
+	}
+	craftsmen = {
+		culture = tonga
+		religion = protestant
+		size = 11900
+	}
+	clerks = {
+		culture = tonga
+		religion = protestant
+		size = 1700
+	} 
 	farmers = {
 		culture = tonga
 		religion = secularism
@@ -8338,9 +10528,19 @@
 	 } 
 	farmers = {
 		culture = nguni
-		religion =  protestant 
-		size = 9561
-	 } 
+		religion = protestant
+		size = 5737
+	}
+	craftsmen = {
+		culture = nguni
+		religion = protestant
+		size = 3346
+	}
+	clerks = {
+		culture = nguni
+		religion = protestant
+		size = 478
+	} 
 	farmers = {
 		culture = nguni
 		religion = secularism
@@ -8416,9 +10616,19 @@
 	 } 
 	farmers = {
 		culture = bemba
-		religion =  catholic 
-		size = 26006
-	 } 
+		religion = catholic
+		size = 15604
+	}
+	craftsmen = {
+		culture = bemba
+		religion = catholic
+		size = 9102
+	}
+	clerks = {
+		culture = bemba
+		religion = catholic
+		size = 1300
+	} 
 	farmers = {
 		culture = bemba
 		religion = secularism
@@ -8494,9 +10704,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 26892
-	 } 
+		religion = catholic
+		size = 16136
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 9412
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 1344
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -8504,9 +10724,19 @@
 	 } 
 	farmers = {
 		culture = bemba
-		religion =  catholic 
-		size = 20786
-	 } 
+		religion = catholic
+		size = 12472
+	}
+	craftsmen = {
+		culture = bemba
+		religion = catholic
+		size = 7275
+	}
+	clerks = {
+		culture = bemba
+		religion = catholic
+		size = 1039
+	} 
 	farmers = {
 		culture = bemba
 		religion = secularism
@@ -8582,9 +10812,19 @@
 	 } 
 	farmers = {
 		culture = chewa
-		religion =  protestant 
-		size = 24987
-	 } 
+		religion = protestant
+		size = 14993
+	}
+	craftsmen = {
+		culture = chewa
+		religion = protestant
+		size = 8745
+	}
+	clerks = {
+		culture = chewa
+		religion = protestant
+		size = 1249
+	} 
 	farmers = {
 		culture = chewa
 		religion = secularism
@@ -8592,9 +10832,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 21174
-	 } 
+		religion = catholic
+		size = 12706
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 7410
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 1058
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -8685,9 +10935,19 @@
 	 } 
 	farmers = {
 		culture = ganda
-		religion =  protestant 
-		size = 164929
-	 } 
+		religion = protestant
+		size = 98958
+	}
+	craftsmen = {
+		culture = ganda
+		religion = protestant
+		size = 57725
+	}
+	clerks = {
+		culture = ganda
+		religion = protestant
+		size = 8246
+	} 
 	farmers = {
 		culture = ganda
 		religion = secularism
@@ -8695,9 +10955,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 107272
-	 } 
+		religion = catholic
+		size = 64364
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 37545
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 5363
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -8783,9 +11053,19 @@
 	 } 
 	farmers = {
 		culture = nyakole
-		religion =  protestant 
-		size = 80904
-	 } 
+		religion = protestant
+		size = 48543
+	}
+	craftsmen = {
+		culture = nyakole
+		religion = protestant
+		size = 28316
+	}
+	clerks = {
+		culture = nyakole
+		religion = protestant
+		size = 4045
+	} 
 	farmers = {
 		culture = nyakole
 		religion = secularism
@@ -8793,9 +11073,19 @@
 	 } 
 	farmers = {
 		culture = kiga
-		religion =  protestant 
-		size = 74200
-	 } 
+		religion = protestant
+		size = 44520
+	}
+	craftsmen = {
+		culture = kiga
+		religion = protestant
+		size = 25970
+	}
+	clerks = {
+		culture = kiga
+		religion = protestant
+		size = 3710
+	} 
 	farmers = {
 		culture = kiga
 		religion = secularism
@@ -8803,9 +11093,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 108447
-	 } 
+		religion = catholic
+		size = 65069
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 37956
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 5422
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -8886,9 +11186,19 @@
 	 } 
 	farmers = {
 		culture = langi
-		religion =  protestant 
-		size = 57504
-	 } 
+		religion = protestant
+		size = 34503
+	}
+	craftsmen = {
+		culture = langi
+		religion = protestant
+		size = 20126
+	}
+	clerks = {
+		culture = langi
+		religion = protestant
+		size = 2875
+	} 
 	farmers = {
 		culture = langi
 		religion = secularism
@@ -8896,9 +11206,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 50105
-	 } 
+		religion = catholic
+		size = 30064
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 17536
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 2505
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -8979,9 +11299,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 107609
-	 } 
+		religion = catholic
+		size = 64566
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 37663
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 5380
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -9017,14 +11347,34 @@
 	 } 
 	farmers = {
 		culture = soga
-		religion =  sunni 
-		size = 72183
-	 } 
+		religion = sunni
+		size = 43310
+	}
+	craftsmen = {
+		culture = soga
+		religion = sunni
+		size = 25264
+	}
+	clerks = {
+		culture = soga
+		religion = sunni
+		size = 3609
+	} 
 	farmers = {
 		culture = iteso
-		religion =  protestant 
-		size = 70297
-	 } 
+		religion = protestant
+		size = 42180
+	}
+	craftsmen = {
+		culture = iteso
+		religion = protestant
+		size = 24603
+	}
+	clerks = {
+		culture = iteso
+		religion = protestant
+		size = 3514
+	} 
 	farmers = {
 		culture = iteso
 		religion = secularism
@@ -9032,9 +11382,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 118100
-	 } 
+		religion = catholic
+		size = 70860
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 41335
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 5905
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -9135,9 +11495,19 @@
 	 } 
 	farmers = {
 		culture = kikuyu
-		religion =  protestant 
-		size = 271932
-	 } 
+		religion = protestant
+		size = 163160
+	}
+	craftsmen = {
+		culture = kikuyu
+		religion = protestant
+		size = 95176
+	}
+	clerks = {
+		culture = kikuyu
+		religion = protestant
+		size = 13596
+	} 
 	farmers = {
 		culture = kikuyu
 		religion = secularism
@@ -9193,9 +11563,19 @@
 	 } 
 	farmers = {
 		culture = meru
-		religion =  protestant 
-		size = 10494
-	 } 
+		religion = protestant
+		size = 6298
+	}
+	craftsmen = {
+		culture = meru
+		religion = protestant
+		size = 3672
+	}
+	clerks = {
+		culture = meru
+		religion = protestant
+		size = 524
+	} 
 	farmers = {
 		culture = meru
 		religion = secularism
@@ -9271,9 +11651,19 @@
 	 } 
 	farmers = {
 		culture = luhya
-		religion =  protestant 
-		size = 12538
-	 } 
+		religion = protestant
+		size = 7524
+	}
+	craftsmen = {
+		culture = luhya
+		religion = protestant
+		size = 4388
+	}
+	clerks = {
+		culture = luhya
+		religion = protestant
+		size = 626
+	} 
 	farmers = {
 		culture = luhya
 		religion = secularism
@@ -9281,9 +11671,19 @@
 	 } 
 	farmers = {
 		culture = kalenjin
-		religion =  protestant 
-		size = 44950
-	 } 
+		religion = protestant
+		size = 26971
+	}
+	craftsmen = {
+		culture = kalenjin
+		religion = protestant
+		size = 15732
+	}
+	clerks = {
+		culture = kalenjin
+		religion = protestant
+		size = 2247
+	} 
 	farmers = {
 		culture = kalenjin
 		religion = secularism
@@ -9374,9 +11774,19 @@
 	 } 
 	farmers = {
 		culture = kisii
-		religion =  protestant 
-		size = 46339
-	 } 
+		religion = protestant
+		size = 27805
+	}
+	craftsmen = {
+		culture = kisii
+		religion = protestant
+		size = 16218
+	}
+	clerks = {
+		culture = kisii
+		religion = protestant
+		size = 2316
+	} 
 	farmers = {
 		culture = kisii
 		religion = secularism
@@ -9384,9 +11794,19 @@
 	 } 
 	farmers = {
 		culture = luo
-		religion =  protestant 
-		size = 36409
-	 } 
+		religion = protestant
+		size = 21846
+	}
+	craftsmen = {
+		culture = luo
+		religion = protestant
+		size = 12743
+	}
+	clerks = {
+		culture = luo
+		religion = protestant
+		size = 1820
+	} 
 	farmers = {
 		culture = luo
 		religion = secularism
@@ -9394,9 +11814,19 @@
 	 } 
 	farmers = {
 		culture = kalenjin
-		religion =  protestant 
-		size = 135709
-	 } 
+		religion = protestant
+		size = 81426
+	}
+	craftsmen = {
+		culture = kalenjin
+		religion = protestant
+		size = 47498
+	}
+	clerks = {
+		culture = kalenjin
+		religion = protestant
+		size = 6785
+	} 
 	farmers = {
 		culture = kalenjin
 		religion = secularism
@@ -9404,9 +11834,19 @@
 	 } 
 	farmers = {
 		culture = meru
-		religion =  protestant 
-		size = 82383
-	 } 
+		religion = protestant
+		size = 49430
+	}
+	craftsmen = {
+		culture = meru
+		religion = protestant
+		size = 28834
+	}
+	clerks = {
+		culture = meru
+		religion = protestant
+		size = 4119
+	} 
 	farmers = {
 		culture = meru
 		religion = secularism
@@ -9487,9 +11927,19 @@
 	 } 
 	farmers = {
 		culture = luhya
-		religion =  protestant 
-		size = 146253
-	 } 
+		religion = protestant
+		size = 87753
+	}
+	craftsmen = {
+		culture = luhya
+		religion = protestant
+		size = 51188
+	}
+	clerks = {
+		culture = luhya
+		religion = protestant
+		size = 7312
+	} 
 	farmers = {
 		culture = luhya
 		religion = secularism
@@ -9497,9 +11947,19 @@
 	 } 
 	farmers = {
 		culture = luo
-		religion =  protestant 
-		size = 161425
-	 } 
+		religion = protestant
+		size = 96856
+	}
+	craftsmen = {
+		culture = luo
+		religion = protestant
+		size = 56498
+	}
+	clerks = {
+		culture = luo
+		religion = protestant
+		size = 8071
+	} 
 	farmers = {
 		culture = luo
 		religion = secularism
@@ -9507,9 +11967,19 @@
 	 } 
 	farmers = {
 		culture = kisii
-		religion =  protestant 
-		size = 45695
-	 } 
+		religion = protestant
+		size = 27418
+	}
+	craftsmen = {
+		culture = kisii
+		religion = protestant
+		size = 15993
+	}
+	clerks = {
+		culture = kisii
+		religion = protestant
+		size = 2284
+	} 
 	farmers = {
 		culture = kisii
 		religion = secularism
@@ -9590,14 +12060,34 @@
 	 } 
 	farmers = {
 		culture = swahili
-		religion =  sunni 
-		size = 22135
-	 } 
+		religion = sunni
+		size = 13282
+	}
+	craftsmen = {
+		culture = swahili
+		religion = sunni
+		size = 7747
+	}
+	clerks = {
+		culture = swahili
+		religion = sunni
+		size = 1106
+	} 
 	farmers = {
 		culture = kamba
-		religion =  protestant 
-		size = 84278
-	 } 
+		religion = protestant
+		size = 50568
+	}
+	craftsmen = {
+		culture = kamba
+		religion = protestant
+		size = 29497
+	}
+	clerks = {
+		culture = kamba
+		religion = protestant
+		size = 4213
+	} 
 	farmers = {
 		culture = kamba
 		religion = secularism
@@ -9764,14 +12254,34 @@
 	 } 
 	farmers = {
 		culture = somali
-		religion =  sunni 
-		size = 22925
-	 } 
+		religion = sunni
+		size = 13756
+	}
+	craftsmen = {
+		culture = somali
+		religion = sunni
+		size = 8023
+	}
+	clerks = {
+		culture = somali
+		religion = sunni
+		size = 1146
+	} 
 	farmers = {
 		culture = swahili
-		religion =  sunni 
-		size = 61201
-	 } 
+		religion = sunni
+		size = 36721
+	}
+	craftsmen = {
+		culture = swahili
+		religion = sunni
+		size = 21420
+	}
+	clerks = {
+		culture = swahili
+		religion = sunni
+		size = 3060
+	} 
 }
 #Garissa - Eastern (852000/213000 POPS)
 2032 = {
@@ -9847,9 +12357,19 @@
 	 } 
 	farmers = {
 		culture = kikuyu
-		religion =  protestant 
-		size = 23364
-	 } 
+		religion = protestant
+		size = 14019
+	}
+	craftsmen = {
+		culture = kikuyu
+		religion = protestant
+		size = 8177
+	}
+	clerks = {
+		culture = kikuyu
+		religion = protestant
+		size = 1168
+	} 
 	farmers = {
 		culture = kikuyu
 		religion = secularism
@@ -9857,9 +12377,19 @@
 	 } 
 	farmers = {
 		culture = kamba
-		religion =  protestant 
-		size = 80332
-	 } 
+		religion = protestant
+		size = 48200
+	}
+	craftsmen = {
+		culture = kamba
+		religion = protestant
+		size = 28116
+	}
+	clerks = {
+		culture = kamba
+		religion = protestant
+		size = 4016
+	} 
 	farmers = {
 		culture = kamba
 		religion = secularism
@@ -9867,9 +12397,19 @@
 	 } 
 	farmers = {
 		culture = meru
-		religion =  protestant 
-		size = 90669
-	 } 
+		religion = protestant
+		size = 54402
+	}
+	craftsmen = {
+		culture = meru
+		religion = protestant
+		size = 31734
+	}
+	clerks = {
+		culture = meru
+		religion = protestant
+		size = 4533
+	} 
 	farmers = {
 		culture = meru
 		religion = secularism
@@ -9880,9 +12420,19 @@
 2033 = {
 	farmers = {
 		culture = swahili
-		religion =  sunni 
-		size = 10344
-	 } 
+		religion = sunni
+		size = 6207
+	}
+	craftsmen = {
+		culture = swahili
+		religion = sunni
+		size = 3620
+	}
+	clerks = {
+		culture = swahili
+		religion = sunni
+		size = 517
+	} 
 }
 #Dar Es Salaam - Dar Es Salaam (972000/243000 POPS)
 2036 = {
@@ -9938,14 +12488,34 @@
 	 } 
 	farmers = {
 		culture = swahili
-		religion =  sunni 
-		size = 135975
-	 } 
+		religion = sunni
+		size = 81586
+	}
+	craftsmen = {
+		culture = swahili
+		religion = sunni
+		size = 47591
+	}
+	clerks = {
+		culture = swahili
+		religion = sunni
+		size = 6798
+	} 
 	farmers = {
 		culture = arab
-		religion =  ibad 
-		size = 9598
-	 } 
+		religion = ibad
+		size = 5760
+	}
+	craftsmen = {
+		culture = arab
+		religion = ibad
+		size = 3359
+	}
+	clerks = {
+		culture = arab
+		religion = ibad
+		size = 479
+	} 
 	farmers = {
 		culture = arab
 		religion = secularism
@@ -9953,9 +12523,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 75931
-	 } 
+		religion = sunni
+		size = 45560
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 26575
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 3796
+	} 
 }
 #Tanga - Tanga (655000/163750 POPS)
 2037 = {
@@ -9981,14 +12561,34 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 52332
-	 } 
+		religion = sunni
+		size = 31400
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 18316
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 2616
+	} 
 	farmers = {
 		culture = swahili
-		religion =  sunni 
-		size = 97015
-	 } 
+		religion = sunni
+		size = 58210
+	}
+	craftsmen = {
+		culture = swahili
+		religion = sunni
+		size = 33955
+	}
+	clerks = {
+		culture = swahili
+		religion = sunni
+		size = 4850
+	} 
 }
 #Kilwa - Kilwa (226000/56500 POPS)
 2038 = {
@@ -9999,9 +12599,19 @@
 	 } 
 	farmers = {
 		culture = swahili
-		religion =  sunni 
-		size = 51531
-	 } 
+		religion = sunni
+		size = 30920
+	}
+	craftsmen = {
+		culture = swahili
+		religion = sunni
+		size = 18035
+	}
+	clerks = {
+		culture = swahili
+		religion = sunni
+		size = 2576
+	} 
 }
 #Lindi - Lindi (153000/38250 POPS)
 2039 = {
@@ -10072,9 +12682,19 @@
 	 } 
 	farmers = {
 		culture = makonde
-		religion =  protestant 
-		size = 34449
-	 } 
+		religion = protestant
+		size = 20670
+	}
+	craftsmen = {
+		culture = makonde
+		religion = protestant
+		size = 12057
+	}
+	clerks = {
+		culture = makonde
+		religion = protestant
+		size = 1722
+	} 
 	farmers = {
 		culture = makonde
 		religion = secularism
@@ -10150,9 +12770,19 @@
 	 } 
 	farmers = {
 		culture = yao
-		religion =  catholic 
-		size = 15293
-	 } 
+		religion = catholic
+		size = 9177
+	}
+	craftsmen = {
+		culture = yao
+		religion = catholic
+		size = 5352
+	}
+	clerks = {
+		culture = yao
+		religion = catholic
+		size = 764
+	} 
 	farmers = {
 		culture = yao
 		religion = secularism
@@ -10160,9 +12790,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 12626
-	 } 
+		religion = catholic
+		size = 7576
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 4419
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 631
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -10238,9 +12878,19 @@
 	 } 
 	farmers = {
 		culture = yao
-		religion =  catholic 
-		size = 16238
-	 } 
+		religion = catholic
+		size = 9744
+	}
+	craftsmen = {
+		culture = yao
+		religion = catholic
+		size = 5683
+	}
+	clerks = {
+		culture = yao
+		religion = catholic
+		size = 811
+	} 
 	farmers = {
 		culture = yao
 		religion = secularism
@@ -10248,9 +12898,19 @@
 	 } 
 	farmers = {
 		culture = makonde
-		religion =  protestant 
-		size = 38700
-	 } 
+		religion = protestant
+		size = 23220
+	}
+	craftsmen = {
+		culture = makonde
+		religion = protestant
+		size = 13545
+	}
+	clerks = {
+		culture = makonde
+		religion = protestant
+		size = 1935
+	} 
 	farmers = {
 		culture = makonde
 		religion = secularism
@@ -10331,9 +12991,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 146129
-	 } 
+		religion = catholic
+		size = 87678
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 51145
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 7306
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -10414,9 +13084,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 146579
-	 } 
+		religion = catholic
+		size = 87949
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 51302
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 7328
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -10497,19 +13177,49 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 416500
-	 } 
+		religion = catholic
+		size = 249900
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 145775
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 20825
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
-		size = 5272
-	 } 
+		size = 3164
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = secularism
+		size = 1845
+	}
+	clerks = {
+		culture = african_minor
+		religion = secularism
+		size = 263
+	} 
 	farmers = {
 		culture = luo
-		religion =  protestant 
-		size = 58588
-	 } 
+		religion = protestant
+		size = 35154
+	}
+	craftsmen = {
+		culture = luo
+		religion = protestant
+		size = 20505
+	}
+	clerks = {
+		culture = luo
+		religion = protestant
+		size = 2929
+	} 
 	farmers = {
 		culture = luo
 		religion = secularism
@@ -10600,9 +13310,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 208169
-	 } 
+		religion = sunni
+		size = 124902
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 72859
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 10408
+	} 
 }
 #Ujiji - Ujiji (657000/164250 POPS)
 2046 = {
@@ -10678,9 +13398,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 147930
-	 } 
+		religion = catholic
+		size = 88759
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 51775
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 7396
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -10761,9 +13491,19 @@
 	 } 
 	farmers = {
 		culture = maasai
-		religion =  protestant 
-		size = 28715
-	 } 
+		religion = protestant
+		size = 17230
+	}
+	craftsmen = {
+		culture = maasai
+		religion = protestant
+		size = 10050
+	}
+	clerks = {
+		culture = maasai
+		religion = protestant
+		size = 1435
+	} 
 	farmers = {
 		culture = maasai
 		religion = secularism
@@ -10771,9 +13511,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 57546
-	 } 
+		religion = catholic
+		size = 34528
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 20141
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 2877
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -10781,9 +13531,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  sunni 
-		size = 39192
-	 } 
+		religion = sunni
+		size = 23516
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = sunni
+		size = 13717
+	}
+	clerks = {
+		culture = african_minor
+		religion = sunni
+		size = 1959
+	} 
 }
 #Zomba - Zomba (1052000/263000 POPS)
 2066 = {
@@ -10854,9 +13614,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 139947
-	 } 
+		religion = catholic
+		size = 83969
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 48981
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 6997
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -10864,9 +13634,19 @@
 	 } 
 	farmers = {
 		culture = lomwe
-		religion =  protestant 
-		size = 102313
-	 } 
+		religion = protestant
+		size = 61389
+	}
+	craftsmen = {
+		culture = lomwe
+		religion = protestant
+		size = 35809
+	}
+	clerks = {
+		culture = lomwe
+		religion = protestant
+		size = 5115
+	} 
 	farmers = {
 		culture = lomwe
 		religion = secularism
@@ -10982,9 +13762,19 @@
 	 } 
 	farmers = {
 		culture = chewa
-		religion =  protestant 
-		size = 164792
-	 } 
+		religion = protestant
+		size = 98876
+	}
+	craftsmen = {
+		culture = chewa
+		religion = protestant
+		size = 57677
+	}
+	clerks = {
+		culture = chewa
+		religion = protestant
+		size = 8239
+	} 
 	farmers = {
 		culture = chewa
 		religion = secularism
@@ -10992,9 +13782,19 @@
 	 } 
 	farmers = {
 		culture = yao
-		religion =  catholic 
-		size = 80235
-	 } 
+		religion = catholic
+		size = 48142
+	}
+	craftsmen = {
+		culture = yao
+		religion = catholic
+		size = 28082
+	}
+	clerks = {
+		culture = yao
+		religion = catholic
+		size = 4011
+	} 
 	farmers = {
 		culture = yao
 		religion = secularism
@@ -11002,9 +13802,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 51351
-	 } 
+		religion = catholic
+		size = 30812
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 17972
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 2567
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -11095,9 +13905,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 8375
-	 } 
+		religion = protestant
+		size = 5026
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 2931
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 418
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -11105,9 +13925,19 @@
 	 } 
 	farmers = {
 		culture = tswana
-		religion =  protestant 
-		size = 30422
-	 } 
+		religion = protestant
+		size = 18254
+	}
+	craftsmen = {
+		culture = tswana
+		religion = protestant
+		size = 10647
+	}
+	clerks = {
+		culture = tswana
+		religion = protestant
+		size = 1521
+	} 
 	farmers = {
 		culture = tswana
 		religion = secularism
@@ -11198,9 +14028,19 @@
 	 } 
 	farmers = {
 		culture = tswana
-		religion =  protestant 
-		size = 19338
-	 } 
+		religion = protestant
+		size = 11604
+	}
+	craftsmen = {
+		culture = tswana
+		religion = protestant
+		size = 6768
+	}
+	clerks = {
+		culture = tswana
+		religion = protestant
+		size = 966
+	} 
 	farmers = {
 		culture = tswana
 		religion = secularism
@@ -11467,9 +14307,19 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  hindu 
-		size = 71124
-	 } 
+		religion = hindu
+		size = 42675
+	}
+	craftsmen = {
+		culture = indian
+		religion = hindu
+		size = 24893
+	}
+	clerks = {
+		culture = indian
+		religion = hindu
+		size = 3556
+	} 
 	farmers = {
 		culture = indian
 		religion = secularism
@@ -11477,9 +14327,19 @@
 	 } 
 	farmers = {
 		culture = black_french
-		religion =  catholic 
-		size = 28089
-	 } 
+		religion = catholic
+		size = 16854
+	}
+	craftsmen = {
+		culture = black_french
+		religion = catholic
+		size = 9831
+	}
+	clerks = {
+		culture = black_french
+		religion = catholic
+		size = 1404
+	} 
 	farmers = {
 		culture = black_french
 		religion = secularism
@@ -11555,9 +14415,19 @@
 	 } 
 	farmers = {
 		culture = black_french
-		religion =  catholic 
-		size = 6778
-	 } 
+		religion = catholic
+		size = 4068
+	}
+	craftsmen = {
+		culture = black_french
+		religion = catholic
+		size = 2372
+	}
+	clerks = {
+		culture = black_french
+		religion = catholic
+		size = 338
+	} 
 	farmers = {
 		culture = black_french
 		religion = secularism
@@ -12086,9 +14956,19 @@
 	 } 
 	farmers = {
 		culture = mestizo
-		religion =  catholic 
-		size = 9309
-	 } 
+		religion = catholic
+		size = 5586
+	}
+	craftsmen = {
+		culture = mestizo
+		religion = catholic
+		size = 3258
+	}
+	clerks = {
+		culture = mestizo
+		religion = catholic
+		size = 465
+	} 
 	farmers = {
 		culture = mestizo
 		religion = secularism
@@ -12199,14 +15079,34 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 270699
-	 } 
+		religion = protestant
+		size = 162421
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 94744
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 13534
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
-		size = 21159
-	 } 
+		size = 12697
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = secularism
+		size = 7405
+	}
+	clerks = {
+		culture = black_anglo
+		religion = secularism
+		size = 1057
+	} 
 }
 #Cayman Islands - Cayman Islands (6000/1500 POPS)
 2218 = {
@@ -12390,9 +15290,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 12612
-	 } 
+		religion = protestant
+		size = 7568
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 4414
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 630
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -12546,9 +15456,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 9991
-	 } 
+		religion = protestant
+		size = 5996
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 3496
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 499
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -12824,9 +15744,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 9404
-	 } 
+		religion = protestant
+		size = 5643
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 3291
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 470
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -12937,9 +15867,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 43304
-	 } 
+		religion = protestant
+		size = 25983
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 15156
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 2165
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -13035,9 +15975,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 15329
-	 } 
+		religion = protestant
+		size = 9198
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 5365
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 766
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -13128,9 +16078,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 9789
-	 } 
+		religion = protestant
+		size = 5874
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 3426
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 489
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -13231,9 +16191,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 14005
-	 } 
+		religion = protestant
+		size = 8404
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 4901
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 700
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -13334,9 +16304,19 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  hindu 
-		size = 42653
-	 } 
+		religion = hindu
+		size = 25593
+	}
+	craftsmen = {
+		culture = indian
+		religion = hindu
+		size = 14928
+	}
+	clerks = {
+		culture = indian
+		religion = hindu
+		size = 2132
+	} 
 	farmers = {
 		culture = indian
 		religion = secularism
@@ -13344,9 +16324,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 70707
-	 } 
+		religion = protestant
+		size = 42425
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 24747
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 3535
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -13354,9 +16344,19 @@
 	 } 
 	farmers = {
 		culture = mestizo
-		religion =  catholic 
-		size = 22491
-	 } 
+		religion = catholic
+		size = 13496
+	}
+	craftsmen = {
+		culture = mestizo
+		religion = catholic
+		size = 7871
+	}
+	clerks = {
+		culture = mestizo
+		religion = catholic
+		size = 1124
+	} 
 	farmers = {
 		culture = mestizo
 		religion = secularism
@@ -13417,9 +16417,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 7021
-	 } 
+		religion = protestant
+		size = 4213
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 2457
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 351
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -13510,9 +16520,19 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  hindu 
-		size = 26996
-	 } 
+		religion = hindu
+		size = 16199
+	}
+	craftsmen = {
+		culture = indian
+		religion = hindu
+		size = 9448
+	}
+	clerks = {
+		culture = indian
+		religion = hindu
+		size = 1349
+	} 
 	farmers = {
 		culture = indian
 		religion = secularism
@@ -13520,9 +16540,19 @@
 	 } 
 	farmers = {
 		culture = pardo_portuguese
-		religion =  catholic 
-		size = 22082
-	 } 
+		religion = catholic
+		size = 13250
+	}
+	craftsmen = {
+		culture = pardo_portuguese
+		religion = catholic
+		size = 7728
+	}
+	clerks = {
+		culture = pardo_portuguese
+		religion = catholic
+		size = 1104
+	} 
 	farmers = {
 		culture = pardo_portuguese
 		religion = secularism
@@ -13530,9 +16560,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 9260
-	 } 
+		religion = protestant
+		size = 5556
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 3241
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 463
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -13540,9 +16580,19 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  sunni 
-		size = 6477
-	 } 
+		religion = sunni
+		size = 3888
+	}
+	craftsmen = {
+		culture = indian
+		religion = sunni
+		size = 2266
+	}
+	clerks = {
+		culture = indian
+		religion = sunni
+		size = 323
+	} 
 }
 #Mahdia - Mahdia (30000/7500 POPS)
 2242 = {
@@ -13711,9 +16761,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 7558
-	 } 
+		religion = protestant
+		size = 4536
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 2645
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 377
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -13814,9 +16874,19 @@
 	 } 
 	farmers = {
 		culture = black_anglo
-		religion =  protestant 
-		size = 10372
-	 } 
+		religion = protestant
+		size = 6224
+	}
+	craftsmen = {
+		culture = black_anglo
+		religion = protestant
+		size = 3630
+	}
+	clerks = {
+		culture = black_anglo
+		religion = protestant
+		size = 518
+	} 
 	farmers = {
 		culture = black_anglo
 		religion = secularism
@@ -13917,9 +16987,19 @@
 	 } 
 	farmers = {
 		culture = indian
-		religion =  hindu 
-		size = 36530
-	 } 
+		religion = hindu
+		size = 21919
+	}
+	craftsmen = {
+		culture = indian
+		religion = hindu
+		size = 12785
+	}
+	clerks = {
+		culture = indian
+		religion = hindu
+		size = 1826
+	} 
 	farmers = {
 		culture = indian
 		religion = secularism
@@ -13927,9 +17007,19 @@
 	 } 
 	farmers = {
 		culture = polynesian
-		religion =  catholic 
-		size = 11508
-	 } 
+		religion = catholic
+		size = 6906
+	}
+	craftsmen = {
+		culture = polynesian
+		religion = catholic
+		size = 4027
+	}
+	clerks = {
+		culture = polynesian
+		religion = catholic
+		size = 575
+	} 
 	farmers = {
 		culture = polynesian
 		religion = secularism
@@ -14015,9 +17105,19 @@
 	 } 
 	farmers = {
 		culture = polynesian
-		religion =  catholic 
-		size = 9215
-	 } 
+		religion = catholic
+		size = 5530
+	}
+	craftsmen = {
+		culture = polynesian
+		religion = catholic
+		size = 3225
+	}
+	clerks = {
+		culture = polynesian
+		religion = catholic
+		size = 460
+	} 
 	farmers = {
 		culture = polynesian
 		religion = secularism
@@ -14093,9 +17193,19 @@
 	 } 
 	farmers = {
 		culture = micronesian
-		religion =  protestant 
-		size = 6608
-	 } 
+		religion = protestant
+		size = 3966
+	}
+	craftsmen = {
+		culture = micronesian
+		religion = protestant
+		size = 2312
+	}
+	clerks = {
+		culture = micronesian
+		religion = protestant
+		size = 330
+	} 
 	farmers = {
 		culture = micronesian
 		religion = secularism
@@ -14156,9 +17266,19 @@
 	 } 
 	farmers = {
 		culture = melanesian
-		religion =  protestant 
-		size = 22196
-	 } 
+		religion = protestant
+		size = 13319
+	}
+	craftsmen = {
+		culture = melanesian
+		religion = protestant
+		size = 7768
+	}
+	clerks = {
+		culture = melanesian
+		religion = protestant
+		size = 1109
+	} 
 	farmers = {
 		culture = melanesian
 		religion = secularism
@@ -14244,9 +17364,19 @@
 	 } 
 	farmers = {
 		culture = kanak
-		religion =  catholic 
-		size = 11353
-	 } 
+		religion = catholic
+		size = 6813
+	}
+	craftsmen = {
+		culture = kanak
+		religion = catholic
+		size = 3973
+	}
+	clerks = {
+		culture = kanak
+		religion = catholic
+		size = 567
+	} 
 	farmers = {
 		culture = kanak
 		religion = secularism
@@ -14401,18 +17531,48 @@
 	farmers = {
 		culture = british
 		religion = secularism
-		size = 11188
-	 } 
+		size = 6714
+	}
+	craftsmen = {
+		culture = british
+		religion = secularism
+		size = 3915
+	}
+	clerks = {
+		culture = british
+		religion = secularism
+		size = 559
+	} 
 	farmers = {
 		culture = irish
-		religion =  catholic 
-		size = 47755
-	 } 
+		religion = catholic
+		size = 28654
+	}
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 16714
+	}
+	clerks = {
+		culture = irish
+		religion = catholic
+		size = 2387
+	} 
 	farmers = {
 		culture = irish
 		religion = secularism
-		size = 7294
-	 } 
+		size = 4378
+	}
+	craftsmen = {
+		culture = irish
+		religion = secularism
+		size = 2552
+	}
+	clerks = {
+		culture = irish
+		religion = secularism
+		size = 364
+	} 
 }
 #Tonga - Tonga (46000/11500 POPS)
 2540 = {
@@ -14483,9 +17643,19 @@
 	 } 
 	farmers = {
 		culture = polynesian
-		religion =  catholic 
-		size = 10086
-	 } 
+		religion = catholic
+		size = 6052
+	}
+	craftsmen = {
+		culture = polynesian
+		religion = catholic
+		size = 3530
+	}
+	clerks = {
+		culture = polynesian
+		religion = catholic
+		size = 504
+	} 
 	farmers = {
 		culture = polynesian
 		religion = secularism
@@ -14629,9 +17799,19 @@
 	 } 
 	farmers = {
 		culture = polynesian
-		religion =  catholic 
-		size = 6702
-	 } 
+		religion = catholic
+		size = 4022
+	}
+	craftsmen = {
+		culture = polynesian
+		religion = catholic
+		size = 2345
+	}
+	clerks = {
+		culture = polynesian
+		religion = catholic
+		size = 335
+	} 
 	farmers = {
 		culture = polynesian
 		religion = secularism
@@ -14742,14 +17922,34 @@
 	 } 
 	farmers = {
 		culture = irish
-		religion =  catholic 
-		size = 47061
-	 } 
+		religion = catholic
+		size = 28237
+	}
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 16471
+	}
+	clerks = {
+		culture = irish
+		religion = catholic
+		size = 2353
+	} 
 	farmers = {
 		culture = irish
 		religion = secularism
-		size = 7188
-	 } 
+		size = 4314
+	}
+	craftsmen = {
+		culture = irish
+		religion = secularism
+		size = 2515
+	}
+	clerks = {
+		culture = irish
+		religion = secularism
+		size = 359
+	} 
 }
 #Pitcairn - Pitcairn (1000/250 POPS)
 2552 = {
@@ -14928,9 +18128,19 @@
 	 } 
 	farmers = {
 		culture = irish
-		religion =  catholic 
-		size = 18054
-	 } 
+		religion = catholic
+		size = 10834
+	}
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 6318
+	}
+	clerks = {
+		culture = irish
+		religion = catholic
+		size = 902
+	} 
 	farmers = {
 		culture = irish
 		religion = secularism
@@ -15031,14 +18241,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 102562
-	 } 
+		religion = catholic
+		size = 61538
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 35896
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 5128
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 18813
-	 } 
+		size = 11289
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 6584
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 940
+	} 
 }
 #Salima - Salima (178000/44500 POPS)
 2564 = {
@@ -15109,9 +18339,19 @@
 	 } 
 	farmers = {
 		culture = nuba
-		religion =  protestant 
-		size = 28592
-	 } 
+		religion = protestant
+		size = 17156
+	}
+	craftsmen = {
+		culture = nuba
+		religion = protestant
+		size = 10007
+	}
+	clerks = {
+		culture = nuba
+		religion = protestant
+		size = 1429
+	} 
 	farmers = {
 		culture = nuba
 		religion = secularism
@@ -15119,9 +18359,19 @@
 	 } 
 	farmers = {
 		culture = arab
-		religion =  sunni 
-		size = 10545
-	 } 
+		religion = sunni
+		size = 6328
+	}
+	craftsmen = {
+		culture = arab
+		religion = sunni
+		size = 3690
+	}
+	clerks = {
+		culture = arab
+		religion = sunni
+		size = 527
+	} 
 }
 #Mochudi - Kgatleng, Kwenen (67000/16750 POPS)
 2574 = {
@@ -15197,9 +18447,19 @@
 	 } 
 	farmers = {
 		culture = tswana
-		religion =  protestant 
-		size = 13128
-	 } 
+		religion = protestant
+		size = 7878
+	}
+	craftsmen = {
+		culture = tswana
+		religion = protestant
+		size = 4594
+	}
+	clerks = {
+		culture = tswana
+		religion = protestant
+		size = 656
+	} 
 	farmers = {
 		culture = tswana
 		religion = secularism
@@ -15426,14 +18686,34 @@
 	 } 
 	farmers = {
 		culture = scottish
-		religion =  protestant 
-		size = 50887
-	 } 
+		religion = protestant
+		size = 30533
+	}
+	craftsmen = {
+		culture = scottish
+		religion = protestant
+		size = 17810
+	}
+	clerks = {
+		culture = scottish
+		religion = protestant
+		size = 2544
+	} 
 	farmers = {
 		culture = scottish
 		religion = secularism
-		size = 6450
-	 } 
+		size = 3871
+	}
+	craftsmen = {
+		culture = scottish
+		religion = secularism
+		size = 2257
+	}
+	clerks = {
+		culture = scottish
+		religion = secularism
+		size = 322
+	} 
 }
 #Inverness - Inverness (259000/64750 POPS)
 267 = {
@@ -15529,14 +18809,34 @@
 	 } 
 	farmers = {
 		culture = scottish
-		religion =  protestant 
-		size = 41709
-	 } 
+		religion = protestant
+		size = 25026
+	}
+	craftsmen = {
+		culture = scottish
+		religion = protestant
+		size = 14598
+	}
+	clerks = {
+		culture = scottish
+		religion = protestant
+		size = 2085
+	} 
 	farmers = {
 		culture = scottish
 		religion = secularism
-		size = 5287
-	 } 
+		size = 3173
+	}
+	craftsmen = {
+		culture = scottish
+		religion = secularism
+		size = 1850
+	}
+	clerks = {
+		culture = scottish
+		religion = secularism
+		size = 264
+	} 
 }
 #Dundee - Dundee (627000/156750 POPS)
 268 = {
@@ -15642,14 +18942,34 @@
 	 } 
 	farmers = {
 		culture = scottish
-		religion =  protestant 
-		size = 97380
-	 } 
+		religion = protestant
+		size = 58428
+	}
+	craftsmen = {
+		culture = scottish
+		religion = protestant
+		size = 34083
+	}
+	clerks = {
+		culture = scottish
+		religion = protestant
+		size = 4869
+	} 
 	farmers = {
 		culture = scottish
 		religion = secularism
-		size = 12344
-	 } 
+		size = 7407
+	}
+	craftsmen = {
+		culture = scottish
+		religion = secularism
+		size = 4320
+	}
+	clerks = {
+		culture = scottish
+		religion = secularism
+		size = 617
+	} 
 }
 #Edinburgh - Edinburgh (844000/211000 POPS)
 269 = {
@@ -15745,24 +19065,64 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 42277
-	 } 
+		religion = protestant
+		size = 25368
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 14796
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 2113
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 5359
-	 } 
+		size = 3217
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 1875
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 267
+	} 
 	farmers = {
 		culture = scottish
-		religion =  protestant 
-		size = 93631
-	 } 
+		religion = protestant
+		size = 56180
+	}
+	craftsmen = {
+		culture = scottish
+		religion = protestant
+		size = 32770
+	}
+	clerks = {
+		culture = scottish
+		religion = protestant
+		size = 4681
+	} 
 	farmers = {
 		culture = scottish
 		religion = secularism
-		size = 11868
-	 } 
+		size = 7122
+	}
+	craftsmen = {
+		culture = scottish
+		religion = secularism
+		size = 4153
+	}
+	clerks = {
+		culture = scottish
+		religion = secularism
+		size = 593
+	} 
 }
 #Stirling - Stirling (178000/44500 POPS)
 270 = {
@@ -15858,9 +19218,19 @@
 	 } 
 	farmers = {
 		culture = scottish
-		religion =  protestant 
-		size = 28666
-	 } 
+		religion = protestant
+		size = 17200
+	}
+	craftsmen = {
+		culture = scottish
+		religion = protestant
+		size = 10033
+	}
+	clerks = {
+		culture = scottish
+		religion = protestant
+		size = 1433
+	} 
 	farmers = {
 		culture = scottish
 		religion = secularism
@@ -15971,14 +19341,34 @@
 	 } 
 	farmers = {
 		culture = scottish
-		religion =  protestant 
-		size = 440413
-	 } 
+		religion = protestant
+		size = 264249
+	}
+	craftsmen = {
+		culture = scottish
+		religion = protestant
+		size = 154144
+	}
+	clerks = {
+		culture = scottish
+		religion = protestant
+		size = 22020
+	} 
 	farmers = {
 		culture = scottish
 		religion = secularism
-		size = 55827
-	 } 
+		size = 33497
+	}
+	craftsmen = {
+		culture = scottish
+		religion = secularism
+		size = 19539
+	}
+	clerks = {
+		culture = scottish
+		religion = secularism
+		size = 2791
+	} 
 }
 #Dumfries - Dumfries (264000/66000 POPS)
 272 = {
@@ -16074,9 +19464,19 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 36655
-	 } 
+		religion = protestant
+		size = 21994
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 12829
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 1832
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
@@ -16084,9 +19484,19 @@
 	 } 
 	farmers = {
 		culture = scottish
-		religion =  protestant 
-		size = 5857
-	 } 
+		religion = protestant
+		size = 3516
+	}
+	craftsmen = {
+		culture = scottish
+		religion = protestant
+		size = 2049
+	}
+	clerks = {
+		culture = scottish
+		religion = protestant
+		size = 292
+	} 
 	farmers = {
 		culture = scottish
 		religion = secularism
@@ -16187,24 +19597,64 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 51748
-	 } 
+		religion = protestant
+		size = 31050
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 18111
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 2587
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 12138
-	 } 
+		size = 7284
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 4248
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 606
+	} 
 	farmers = {
 		culture = welsh
-		religion =  protestant 
-		size = 128255
-	 } 
+		religion = protestant
+		size = 76954
+	}
+	craftsmen = {
+		culture = welsh
+		religion = protestant
+		size = 44889
+	}
+	clerks = {
+		culture = welsh
+		religion = protestant
+		size = 6412
+	} 
 	farmers = {
 		culture = welsh
 		religion = secularism
-		size = 30084
-	 } 
+		size = 18051
+	}
+	craftsmen = {
+		culture = welsh
+		religion = secularism
+		size = 10529
+	}
+	clerks = {
+		culture = welsh
+		religion = secularism
+		size = 1504
+	} 
 }
 #Cardigan - Cardigan (303000/75750 POPS)
 274 = {
@@ -16310,14 +19760,34 @@
 	 } 
 	farmers = {
 		culture = welsh
-		religion =  protestant 
-		size = 42950
-	 } 
+		religion = protestant
+		size = 25771
+	}
+	craftsmen = {
+		culture = welsh
+		religion = protestant
+		size = 15032
+	}
+	clerks = {
+		culture = welsh
+		religion = protestant
+		size = 2147
+	} 
 	farmers = {
 		culture = welsh
 		religion = secularism
-		size = 10074
-	 } 
+		size = 6046
+	}
+	craftsmen = {
+		culture = welsh
+		religion = secularism
+		size = 3525
+	}
+	clerks = {
+		culture = welsh
+		religion = secularism
+		size = 503
+	} 
 }
 #Llandrindod - Llandrindod (106000/26500 POPS)
 275 = {
@@ -16413,9 +19883,19 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 9228
-	 } 
+		religion = protestant
+		size = 5538
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 3229
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 461
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
@@ -16423,9 +19903,19 @@
 	 } 
 	farmers = {
 		culture = welsh
-		religion =  protestant 
-		size = 6439
-	 } 
+		religion = protestant
+		size = 3865
+	}
+	craftsmen = {
+		culture = welsh
+		religion = protestant
+		size = 2253
+	}
+	clerks = {
+		culture = welsh
+		religion = protestant
+		size = 321
+	} 
 	farmers = {
 		culture = welsh
 		religion = secularism
@@ -16536,14 +20026,34 @@
 	 } 
 	farmers = {
 		culture = welsh
-		religion =  protestant 
-		size = 125767
-	 } 
+		religion = protestant
+		size = 75461
+	}
+	craftsmen = {
+		culture = welsh
+		religion = protestant
+		size = 44018
+	}
+	clerks = {
+		culture = welsh
+		religion = protestant
+		size = 6288
+	} 
 	farmers = {
 		culture = welsh
 		religion = secularism
-		size = 29501
-	 } 
+		size = 17701
+	}
+	craftsmen = {
+		culture = welsh
+		religion = secularism
+		size = 10325
+	}
+	clerks = {
+		culture = welsh
+		religion = secularism
+		size = 1475
+	} 
 }
 #Liverpool - Liverpool (2301000/575250 POPS)
 277 = {
@@ -16639,9 +20149,19 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 340054
-	 } 
+		religion = protestant
+		size = 204034
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 119018
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 17002
+	} 
 	craftsmen = {
 		culture = english
 		religion = secularism
@@ -16742,9 +20262,19 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 321284
-	 } 
+		religion = protestant
+		size = 192771
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 112449
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 16064
+	} 
 	craftsmen = {
 		culture = english
 		religion = secularism
@@ -16845,14 +20375,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 59706
-	 } 
+		religion = protestant
+		size = 35824
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 20897
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 2985
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 14005
-	 } 
+		size = 8404
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 4901
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 700
+	} 
 }
 #Newcastle On Tyne - Newcastle On Tyne (1880000/470000 POPS)
 280 = {
@@ -16948,14 +20498,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 277836
-	 } 
+		religion = protestant
+		size = 166703
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 97242
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 13891
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 65171
-	 } 
+		size = 39104
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 22809
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 3258
+	} 
 }
 #Hull - Hull (1345000/336250 POPS)
 281 = {
@@ -17051,14 +20621,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 198772
-	 } 
+		religion = protestant
+		size = 119264
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 69570
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 9938
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 46625
-	 } 
+		size = 27976
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 16318
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 2331
+	} 
 }
 #Leeds - Leeds (1803000/450750 POPS)
 282 = {
@@ -17154,14 +20744,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 266459
-	 } 
+		religion = protestant
+		size = 159877
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 93260
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 13322
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 62502
-	 } 
+		size = 37502
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 21875
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 3125
+	} 
 }
 #Sheffield - Sheffield (1087000/271750 POPS)
 283 = {
@@ -17257,14 +20867,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 160644
-	 } 
+		religion = protestant
+		size = 96387
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 56225
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 8032
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 37682
-	 } 
+		size = 22610
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 13188
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1884
+	} 
 }
 #Birmingham - Birmingham (2904000/726000 POPS)
 284 = {
@@ -17360,9 +20990,19 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 429167
-	 } 
+		religion = protestant
+		size = 257501
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 150208
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 21458
+	} 
 	craftsmen = {
 		culture = english
 		religion = secularism
@@ -17463,14 +21103,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 122958
-	 } 
+		religion = protestant
+		size = 73776
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 43035
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 6147
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 28842
-	 } 
+		size = 17306
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 10094
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1442
+	} 
 }
 #Shrewesbury - Shrewesbury (531000/132750 POPS)
 286 = {
@@ -17566,14 +21226,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 78476
-	 } 
+		religion = protestant
+		size = 47087
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 27466
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 3923
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 18408
-	 } 
+		size = 11046
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 6442
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 920
+	} 
 }
 #Coventry - Coventry (899000/224750 POPS)
 287 = {
@@ -17669,14 +21349,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 132861
-	 } 
+		religion = protestant
+		size = 79717
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 46501
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 6643
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 31165
-	 } 
+		size = 18700
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 10907
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1558
+	} 
 }
 #Nottingham - Nottingham (1707000/426750 POPS)
 288 = {
@@ -17772,14 +21472,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 252271
-	 } 
+		religion = protestant
+		size = 151364
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 88294
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 12613
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 59174
-	 } 
+		size = 35506
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 20710
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 2958
+	} 
 }
 #Leicester - Leicester (823000/205750 POPS)
 289 = {
@@ -17875,14 +21595,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 121628
-	 } 
+		religion = protestant
+		size = 72978
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 42569
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 6081
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 28530
-	 } 
+		size = 17119
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 9985
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1426
+	} 
 }
 #Lincoln - Lincoln (844000/211000 POPS)
 290 = {
@@ -17978,14 +21718,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 124732
-	 } 
+		religion = protestant
+		size = 74840
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 43656
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 6236
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 29258
-	 } 
+		size = 17556
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 10240
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1462
+	} 
 }
 #Cambridge - Cambridge (1152000/288000 POPS)
 291 = {
@@ -18081,14 +21841,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 170249
-	 } 
+		religion = protestant
+		size = 102150
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 59587
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 8512
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 39934
-	 } 
+		size = 23962
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 13976
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1996
+	} 
 }
 #Ipswich - Ipswich (1286000/321500 POPS)
 292 = {
@@ -18184,14 +21964,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 190052
-	 } 
+		religion = protestant
+		size = 114032
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 66518
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 9502
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 44580
-	 } 
+		size = 26749
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 15602
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 2229
+	} 
 }
 #Chelmsford - Chelmsford (1130000/282500 POPS)
 293 = {
@@ -18287,14 +22087,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 166998
-	 } 
+		religion = protestant
+		size = 100200
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 58449
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 8349
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 39172
-	 } 
+		size = 23504
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 13710
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1958
+	} 
 }
 #Oxford - Oxford (1221000/305250 POPS)
 294 = {
@@ -18390,14 +22210,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 180447
-	 } 
+		religion = protestant
+		size = 108269
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 63156
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 9022
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 42327
-	 } 
+		size = 25397
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 14814
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 2116
+	} 
 }
 #St Albans - St Albans (1518000/379500 POPS)
 295 = {
@@ -18493,14 +22333,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 224339
-	 } 
+		religion = protestant
+		size = 134605
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 78518
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 11216
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 52622
-	 } 
+		size = 31574
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 18417
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 2631
+	} 
 }
 #Bristol - Bristol (834000/208500 POPS)
 296 = {
@@ -18596,14 +22456,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 123255
-	 } 
+		religion = protestant
+		size = 73954
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 43139
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 6162
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 28911
-	 } 
+		size = 17348
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 10118
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1445
+	} 
 }
 #Salisbury - Salisbury (1157000/289250 POPS)
 297 = {
@@ -18699,14 +22579,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 150989
-	 } 
+		religion = protestant
+		size = 90594
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 52846
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 7549
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 20108
-	 } 
+		size = 12066
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 7037
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1005
+	} 
 }
 #Bath - Bath (736000/184000 POPS)
 298 = {
@@ -18802,14 +22702,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 108771
-	 } 
+		religion = protestant
+		size = 65264
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 38069
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 5438
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 25514
-	 } 
+		size = 15310
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 8929
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 1275
+	} 
 }
 #Plymouth - Plymouth (1353000/338250 POPS)
 299 = {
@@ -18905,14 +22825,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 199954
-	 } 
+		religion = protestant
+		size = 119974
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 69983
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 9997
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 46902
-	 } 
+		size = 28142
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 16415
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 2345
+	} 
 }
 #London - London (6643000/1660750 POPS)
 300 = {
@@ -19019,28 +22959,78 @@
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 216399
-	 } 
+		size = 129841
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 75739
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 10819
+	} 
 	farmers = {
 		culture = jewish
-		religion =  jewish 
-		size = 32284
-	 } 
+		religion = jewish
+		size = 19371
+	}
+	craftsmen = {
+		culture = jewish
+		religion = jewish
+		size = 11299
+	}
+	clerks = {
+		culture = jewish
+		religion = jewish
+		size = 1614
+	} 
 	farmers = {
 		culture = jewish
 		religion = secularism
-		size = 7573
-	 } 
+		size = 4545
+	}
+	craftsmen = {
+		culture = jewish
+		religion = secularism
+		size = 2650
+	}
+	clerks = {
+		culture = jewish
+		religion = secularism
+		size = 378
+	} 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 24213
-	 } 
+		religion = protestant
+		size = 14529
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 8474
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 1210
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 5679
-	 } 
+		size = 3409
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 1987
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 283
+	} 
 	farmers = {
 		culture = haredim_jewish
 		religion =  jewish 
@@ -19141,14 +23131,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 207048
-	 } 
+		religion = protestant
+		size = 124230
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 72466
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 10352
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 48567
-	 } 
+		size = 29141
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 16998
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 2428
+	} 
 }
 #Brighton - Brighton (2217000/554250 POPS)
 302 = {
@@ -19244,14 +23254,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 327640
-	 } 
+		religion = protestant
+		size = 196584
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 114674
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 16382
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 76854
-	 } 
+		size = 46114
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 26898
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 3842
+	} 
 }
 #Southampton - Southampton (1539000/384750 POPS)
 303 = {
@@ -19352,14 +23382,34 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 227442
-	 } 
+		religion = protestant
+		size = 136466
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 79604
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 11372
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
-		size = 53350
-	 } 
+		size = 32011
+	}
+	craftsmen = {
+		culture = english
+		religion = secularism
+		size = 18672
+	}
+	clerks = {
+		culture = english
+		religion = secularism
+		size = 2667
+	} 
 }
 #Isle of Man - Isle of Man (68000/17000 POPS)
 304 = {
@@ -19455,9 +23505,19 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 10051
-	 } 
+		religion = protestant
+		size = 6032
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 3517
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 502
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
@@ -19533,9 +23593,19 @@
 	 } 
 	farmers = {
 		culture = dinka
-		religion =  protestant 
-		size = 7278
-	 } 
+		religion = protestant
+		size = 4368
+	}
+	craftsmen = {
+		culture = dinka
+		religion = protestant
+		size = 2547
+	}
+	clerks = {
+		culture = dinka
+		religion = protestant
+		size = 363
+	} 
 	farmers = {
 		culture = dinka
 		religion = secularism
@@ -19543,9 +23613,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 17399
-	 } 
+		religion = catholic
+		size = 10441
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 6089
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 869
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -19553,9 +23633,19 @@
 	 } 
 	farmers = {
 		culture = sudanese
-		religion =  sunni 
-		size = 14550
-	 } 
+		religion = sunni
+		size = 8731
+	}
+	craftsmen = {
+		culture = sudanese
+		religion = sunni
+		size = 5092
+	}
+	clerks = {
+		culture = sudanese
+		religion = sunni
+		size = 727
+	} 
 }
 #Kiel - Schleswig-Holstein (504000/126000 POPS)
 369 = {
@@ -19651,14 +23741,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 84189
-	 } 
+		religion = catholic
+		size = 50514
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 29466
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 4209
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 15442
-	 } 
+		size = 9266
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 5404
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 772
+	} 
 }
 #Flensburg - Schleswig-Holstein (504000/126000 POPS)
 370 = {
@@ -19764,14 +23874,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 84189
-	 } 
+		religion = catholic
+		size = 50514
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 29466
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 4209
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 15442
-	 } 
+		size = 9266
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 5404
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 772
+	} 
 }
 #Channel Islands - Channel Islands (132000/33000 POPS)
 419 = {
@@ -19867,9 +23997,19 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 19509
-	 } 
+		religion = protestant
+		size = 11706
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 6828
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 975
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
@@ -20063,14 +24203,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 135636
-	 } 
+		religion = catholic
+		size = 81383
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 47472
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 6781
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 24879
-	 } 
+		size = 14929
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 8707
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 1243
+	} 
 }
 #Lauenburg - Schleswig-Holstein (504000/126000 POPS)
 529 = {
@@ -20166,14 +24326,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 84189
-	 } 
+		religion = catholic
+		size = 50514
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 29466
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 4209
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 15442
-	 } 
+		size = 9266
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 5404
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 772
+	} 
 }
 #Lubeck - Schleswig-Holstein (504000/126000 POPS)
 530 = {
@@ -20269,14 +24449,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 84189
-	 } 
+		religion = catholic
+		size = 50514
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 29466
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 4209
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 15442
-	 } 
+		size = 9266
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 5404
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 772
+	} 
 }
 #Stade - Lower Saxony (368000/92000 POPS)
 531 = {
@@ -20372,14 +24572,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 61471
-	 } 
+		religion = catholic
+		size = 36884
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 21514
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3073
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11275
-	 } 
+		size = 6766
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 3946
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 563
+	} 
 }
 #Luneburg - Lower Saxony (368000/92000 POPS)
 532 = {
@@ -20475,14 +24695,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 61471
-	 } 
+		religion = catholic
+		size = 36884
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 21514
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3073
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11275
-	 } 
+		size = 6766
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 3946
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 563
+	} 
 }
 #Heligoland - Heligoland (1000/250 POPS)
 533 = {
@@ -20626,14 +24866,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 195436
-	 } 
+		religion = catholic
+		size = 117263
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 68402
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 9771
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 35849
-	 } 
+		size = 21510
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 12547
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 1792
+	} 
 }
 #Nienburg - Lower Saxony (368000/92000 POPS)
 535 = {
@@ -20729,14 +24989,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 61471
-	 } 
+		religion = catholic
+		size = 36884
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 21514
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3073
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11275
-	 } 
+		size = 6766
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 3946
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 563
+	} 
 }
 #Brunswick - Lower Saxony (1084000/271000 POPS)
 536 = {
@@ -20832,14 +25112,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 181071
-	 } 
+		religion = catholic
+		size = 108644
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 63374
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 9053
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 33214
-	 } 
+		size = 19930
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 11624
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 1660
+	} 
 }
 #Gottingen - Lower Saxony (368000/92000 POPS)
 537 = {
@@ -20935,14 +25235,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 61471
-	 } 
+		religion = catholic
+		size = 36884
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 21514
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3073
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11275
-	 } 
+		size = 6766
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 3946
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 563
+	} 
 }
 #Osnabruck - Lower Saxony (368000/92000 POPS)
 538 = {
@@ -21038,14 +25358,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 61471
-	 } 
+		religion = catholic
+		size = 36884
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 21514
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3073
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11275
-	 } 
+		size = 6766
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 3946
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 563
+	} 
 }
 #Oldenburg - Lower Saxony (368000/92000 POPS)
 540 = {
@@ -21141,14 +25481,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 61471
-	 } 
+		religion = catholic
+		size = 36884
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 21514
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3073
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11275
-	 } 
+		size = 6766
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 3946
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 563
+	} 
 }
 #Cloppenburg - Lower Saxony (368000/92000 POPS)
 541 = {
@@ -21244,14 +25604,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 61471
-	 } 
+		religion = catholic
+		size = 36884
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 21514
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3073
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11275
-	 } 
+		size = 6766
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 3946
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 563
+	} 
 }
 #Lingen - Lower Saxony (368000/92000 POPS)
 542 = {
@@ -21347,14 +25727,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 61471
-	 } 
+		religion = catholic
+		size = 36884
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 21514
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3073
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11275
-	 } 
+		size = 6766
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 3946
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 563
+	} 
 }
 #Emden - Lower Saxony (368000/92000 POPS)
 543 = {
@@ -21450,14 +25850,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 61471
-	 } 
+		religion = catholic
+		size = 36884
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 21514
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3073
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11275
-	 } 
+		size = 6766
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 3946
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 563
+	} 
 }
 #Cologne - Cologne (2018000/504500 POPS)
 575 = {
@@ -21563,14 +25983,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 337085
-	 } 
+		religion = catholic
+		size = 202252
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 117979
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 16854
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 61832
-	 } 
+		size = 37100
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 21641
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 3091
+	} 
 }
 #Aachen - North Rhine-Westphalia (614000/153500 POPS)
 576 = {
@@ -21666,14 +26106,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 102562
-	 } 
+		religion = catholic
+		size = 61538
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 35896
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 5128
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 18813
-	 } 
+		size = 11289
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 6584
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 940
+	} 
 }
 #Kleves - North Rhine-Westphalia (614000/153500 POPS)
 577 = {
@@ -21769,14 +26229,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 102562
-	 } 
+		religion = catholic
+		size = 61538
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 35896
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 5128
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 18813
-	 } 
+		size = 11289
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 6584
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 940
+	} 
 }
 #Dusseldorf - North Rhine-Westphalia (2723000/680750 POPS)
 578 = {
@@ -21882,14 +26362,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 454849
-	 } 
+		religion = catholic
+		size = 272910
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 159197
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 22742
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 83433
-	 } 
+		size = 50061
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 29201
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 4171
+	} 
 }
 #Dortmund - North Rhine-Westphalia (4318000/1079500 POPS)
 580 = {
@@ -22001,8 +26501,18 @@
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 132304
-	 } 
+		size = 79383
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 46306
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 6615
+	} 
 }
 #Munster - North Rhine-Westphalia (614000/153500 POPS)
 581 = {
@@ -22098,14 +26608,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 102562
-	 } 
+		religion = catholic
+		size = 61538
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 35896
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 5128
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 18813
-	 } 
+		size = 11289
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 6584
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 940
+	} 
 }
 #Minden - North Rhine-Westphalia (614000/153500 POPS)
 582 = {
@@ -22201,14 +26731,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 102562
-	 } 
+		religion = catholic
+		size = 61538
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 35896
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 5128
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 18813
-	 } 
+		size = 11289
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 6584
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 940
+	} 
 }
 #Siegen - North Rhine-Westphalia (614000/153500 POPS)
 583 = {
@@ -22304,14 +26854,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 102562
-	 } 
+		religion = catholic
+		size = 61538
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 35896
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 5128
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 18813
-	 } 
+		size = 11289
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 6584
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 940
+	} 
 }
 #Korbach - North Rhine-Westphalia (614000/153500 POPS)
 584 = {
@@ -22407,14 +26977,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 102562
-	 } 
+		religion = catholic
+		size = 61538
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 35896
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 5128
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 18813
-	 } 
+		size = 11289
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 6584
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 940
+	} 
 }
 #Detmold - North Rhine-Westphalia (614000/153500 POPS)
 585 = {
@@ -22510,14 +27100,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 102562
-	 } 
+		religion = catholic
+		size = 61538
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 35896
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 5128
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 18813
-	 } 
+		size = 11289
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 6584
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 940
+	} 
 }
 #Lienz - Tyrol (162000/40500 POPS)
 615 = {
@@ -22593,9 +27203,19 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 28270
-	 } 
+		religion = catholic
+		size = 16963
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 9894
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 1413
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
@@ -22691,14 +27311,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 87256
-	 } 
+		religion = catholic
+		size = 52355
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 30539
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 4362
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 12751
-	 } 
+		size = 7652
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 4462
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 637
+	} 
 	farmers = {
 		culture = austrian_german
 		religion = secularism
@@ -22779,14 +27419,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 84988
-	 } 
+		religion = catholic
+		size = 50994
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 29745
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 4249
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 12419
-	 } 
+		size = 7453
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 4346
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 620
+	} 
 	 
 	farmers = {
 		culture = austrian_german
@@ -22878,14 +27538,34 @@
 	 } 
 	farmers = {
 		culture = german
-		religion =  catholic 
-		size = 78300
-	 } 
+		religion = catholic
+		size = 46980
+	}
+	craftsmen = {
+		culture = german
+		religion = catholic
+		size = 27405
+	}
+	clerks = {
+		culture = german
+		religion = catholic
+		size = 3915
+	} 
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 11442
-	 } 
+		size = 6866
+	}
+	craftsmen = {
+		culture = german
+		religion = secularism
+		size = 4004
+	}
+	clerks = {
+		culture = german
+		religion = secularism
+		size = 572
+	} 
 	farmers = {
 		culture = austrian_german
 		religion = secularism
@@ -22999,14 +27679,34 @@
 	 } 
 	farmers = {
 		culture = british
-		religion =  protestant 
-		size = 31426
-	 } 
+		religion = protestant
+		size = 18856
+	}
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 10999
+	}
+	clerks = {
+		culture = british
+		religion = protestant
+		size = 1571
+	} 
 	farmers = {
 		culture = british
 		religion = secularism
-		size = 5654
-	 } 
+		size = 3394
+	}
+	craftsmen = {
+		culture = british
+		religion = secularism
+		size = 1978
+	}
+	clerks = {
+		culture = british
+		religion = secularism
+		size = 282
+	} 
 }
 #Millertown - Newfoundland and Labrador (10000/2500 POPS)
 75 = {
@@ -23258,9 +27958,19 @@
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 22087
-	 } 
+		religion = catholic
+		size = 13253
+	}
+	craftsmen = {
+		culture = african_minor
+		religion = catholic
+		size = 7730
+	}
+	clerks = {
+		culture = african_minor
+		religion = catholic
+		size = 1104
+	} 
 	farmers = {
 		culture = african_minor
 		religion = secularism
@@ -23268,9 +27978,19 @@
 	 } 
 	farmers = {
 		culture = bemba
-		religion =  catholic 
-		size = 31010
-	 } 
+		religion = catholic
+		size = 18607
+	}
+	craftsmen = {
+		culture = bemba
+		religion = catholic
+		size = 10853
+	}
+	clerks = {
+		culture = bemba
+		religion = catholic
+		size = 1550
+	} 
 	farmers = {
 		culture = bemba
 		religion = secularism
@@ -23351,9 +28071,19 @@
 	 } 
 	farmers = {
 		culture = greek
-		religion =  orthodox 
-		size = 13826
-	 } 
+		religion = orthodox
+		size = 8296
+	}
+	craftsmen = {
+		culture = greek
+		religion = orthodox
+		size = 4839
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 691
+	} 
 	farmers = {
 		culture = greek
 		religion = secularism
@@ -23434,9 +28164,19 @@
 	 } 
 	farmers = {
 		culture = maltese
-		religion =  catholic 
-		size = 48741
-	 } 
+		religion = catholic
+		size = 29245
+	}
+	craftsmen = {
+		culture = maltese
+		religion = catholic
+		size = 17059
+	}
+	clerks = {
+		culture = maltese
+		religion = catholic
+		size = 2437
+	} 
 	farmers = {
 		culture = maltese
 		religion = secularism
@@ -23444,9 +28184,19 @@
 	 } 
 	farmers = {
 		culture = italian
-		religion =  catholic 
-		size = 5670
-	 } 
+		religion = catholic
+		size = 3403
+	}
+	craftsmen = {
+		culture = italian
+		religion = catholic
+		size = 1984
+	}
+	clerks = {
+		culture = italian
+		religion = catholic
+		size = 283
+	} 
 	farmers = {
 		culture = italian
 		religion = secularism
@@ -23527,9 +28277,19 @@
 	 } 
 	farmers = {
 		culture = english
-		religion =  protestant 
-		size = 6007
-	 } 
+		religion = protestant
+		size = 3605
+	}
+	craftsmen = {
+		culture = english
+		religion = protestant
+		size = 2102
+	}
+	clerks = {
+		culture = english
+		religion = protestant
+		size = 300
+	} 
 	farmers = {
 		culture = english
 		religion = secularism
@@ -23537,9 +28297,19 @@
 	 } 
 	farmers = {
 		culture = greek
-		religion =  orthodox 
-		size = 45114
-	 } 
+		religion = orthodox
+		size = 27070
+	}
+	craftsmen = {
+		culture = greek
+		religion = orthodox
+		size = 15789
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 2255
+	} 
 	farmers = {
 		culture = greek
 		religion = secularism
@@ -23630,9 +28400,19 @@
 	 } 
 	farmers = {
 		culture = greek
-		religion =  orthodox 
-		size = 19123
-	 } 
+		religion = orthodox
+		size = 11474
+	}
+	craftsmen = {
+		culture = greek
+		religion = orthodox
+		size = 6693
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 956
+	} 
 	farmers = {
 		culture = greek
 		religion = secularism
@@ -23643,9 +28423,19 @@
 857 = {
 	farmers = {
 		culture = turkish
-		religion =  sunni 
-		size = 20612
-	 } 
+		religion = sunni
+		size = 12368
+	}
+	craftsmen = {
+		culture = turkish
+		religion = sunni
+		size = 7214
+	}
+	clerks = {
+		culture = turkish
+		religion = sunni
+		size = 1030
+	} 
 	farmers = {
 		culture = greek
 		religion =  orthodox 
@@ -23711,9 +28501,19 @@
 	 }
 	farmers = {
 		culture = druze
-		religion =  druze
-		size = 8546
-	 }  
+		religion = druze
+		size = 5128
+	}
+	craftsmen = {
+		culture = druze
+		religion = druze
+		size = 2991
+	}
+	clerks = {
+		culture = druze
+		religion = druze
+		size = 427
+	}  
 	clergymen = {
 		culture = jewish
 		religion = secularism
@@ -23741,9 +28541,19 @@
 	 } 
 	farmers = {
 		culture = jewish
-		religion =  jewish 
-		size = 38311
-	 } 
+		religion = jewish
+		size = 22988
+	}
+	craftsmen = {
+		culture = jewish
+		religion = jewish
+		size = 13408
+	}
+	clerks = {
+		culture = jewish
+		religion = jewish
+		size = 1915
+	} 
 	farmers = {
 		culture = jewish
 		religion = secularism
@@ -23751,9 +28561,19 @@
 	 } 
 	farmers = {
 		culture = arab_levantine
-		religion =  orthodox 
-		size = 14636
-	 } 
+		religion = orthodox
+		size = 8783
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = orthodox
+		size = 5122
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = orthodox
+		size = 731
+	} 
 	farmers = {
 		culture = arab_levantine
 		religion = secularism
@@ -23761,9 +28581,19 @@
 	 } 
 	farmers = {
 		culture = arab_levantine
-		religion =  sunni 
-		size = 62879
-	 } 
+		religion = sunni
+		size = 37729
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = sunni
+		size = 22007
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = sunni
+		size = 3143
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -23842,9 +28672,19 @@
 	 } 
 	farmers = {
 		culture = jewish
-		religion =  jewish 
-		size = 8477
-	 } 
+		religion = jewish
+		size = 5088
+	}
+	craftsmen = {
+		culture = jewish
+		religion = jewish
+		size = 2966
+	}
+	clerks = {
+		culture = jewish
+		religion = jewish
+		size = 423
+	} 
 	farmers = {
 		culture = jewish
 		religion = secularism
@@ -23852,19 +28692,49 @@
 	 } 
 	farmers = {
 		culture = haredim_jewish
-		religion =  jewish 
-		size = 10750
-	 } 
+		religion = jewish
+		size = 6451
+	}
+	craftsmen = {
+		culture = haredim_jewish
+		religion = jewish
+		size = 3762
+	}
+	clerks = {
+		culture = haredim_jewish
+		religion = jewish
+		size = 537
+	} 
 	farmers = {
 		culture = arab_levantine
-		religion =  sunni 
-		size = 8650
-	 } 
+		religion = sunni
+		size = 5191
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = sunni
+		size = 3027
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = sunni
+		size = 432
+	} 
 	farmers = {
 		culture = arab_levantine
-		religion =  orthodox 
-		size = 7350
-	 } 
+		religion = orthodox
+		size = 4411
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = orthodox
+		size = 2572
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = orthodox
+		size = 367
+	} 
 	farmers = {
 		culture = arab_levantine
 		religion = secularism
@@ -23893,9 +28763,19 @@
 	 } 
 	farmers = {
 		culture = arab_levantine
-		religion =  sunni 
-		size = 64731
-	 } 
+		religion = sunni
+		size = 38840
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = sunni
+		size = 22655
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = sunni
+		size = 3236
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -23979,9 +28859,19 @@
 	 } 
 	farmers = {
 		culture = jewish
-		religion =  jewish 
-		size = 137749
-	 } 
+		religion = jewish
+		size = 82650
+	}
+	craftsmen = {
+		culture = jewish
+		religion = jewish
+		size = 48212
+	}
+	clerks = {
+		culture = jewish
+		religion = jewish
+		size = 6887
+	} 
 	farmers = {
 		culture = jewish
 		religion = secularism
@@ -23989,9 +28879,19 @@
 	 } 
 	farmers = {
 		culture = jewish
-		religion =  jewish 
-		size = 97749
-	 } 
+		religion = jewish
+		size = 58650
+	}
+	craftsmen = {
+		culture = jewish
+		religion = jewish
+		size = 34212
+	}
+	clerks = {
+		culture = jewish
+		religion = jewish
+		size = 4887
+	} 
 	 soldiers = {
 		culture = jewish
 		religion =  jewish 
@@ -24009,9 +28909,19 @@
 	 } 
 	farmers = {
 		culture = haredim_jewish
-		religion =  jewish 
-		size = 15000
-	 } 
+		religion = jewish
+		size = 9000
+	}
+	craftsmen = {
+		culture = haredim_jewish
+		religion = jewish
+		size = 5250
+	}
+	clerks = {
+		culture = haredim_jewish
+		religion = jewish
+		size = 750
+	} 
 	clergymen = {
 		culture = haredim_jewish
 		religion =  jewish 
@@ -24110,9 +29020,19 @@
 	 } 
 	farmers = {
 		culture = arab_levantine
-		religion =  sunni 
-		size = 48297
-	 } 
+		religion = sunni
+		size = 28980
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = sunni
+		size = 16903
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = sunni
+		size = 2414
+	} 
 	farmers = {
 		culture = arab_levantine
 		religion = secularism
@@ -24166,9 +29086,19 @@
 	 } 
 	farmers = {
 		culture = jewish
-		religion =  jewish 
-		size = 5000
-	 } 
+		religion = jewish
+		size = 3000
+	}
+	craftsmen = {
+		culture = jewish
+		religion = jewish
+		size = 1750
+	}
+	clerks = {
+		culture = jewish
+		religion = jewish
+		size = 250
+	} 
 	clergymen = {
 		culture = arab_levantine
 		religion =  sunni 
@@ -24181,9 +29111,19 @@
 	 } 
 	farmers = {
 		culture = arab_levantine
-		religion =  sunni 
-		size = 64639
-	 } 
+		religion = sunni
+		size = 38785
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = sunni
+		size = 22623
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = sunni
+		size = 3231
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -24231,9 +29171,19 @@
 	 } 
 	farmers = {
 		culture = jewish
-		religion =  jewish 
-		size = 25000
-	 } 
+		religion = jewish
+		size = 15000
+	}
+	craftsmen = {
+		culture = jewish
+		religion = jewish
+		size = 8750
+	}
+	clerks = {
+		culture = jewish
+		religion = jewish
+		size = 1250
+	} 
 	clergymen = {
 		culture = arab_levantine
 		religion =  sunni 
@@ -24246,9 +29196,19 @@
 	 } 
 	farmers = {
 		culture = arab_levantine
-		religion =  sunni 
-		size = 64639
-	 } 
+		religion = sunni
+		size = 38785
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = sunni
+		size = 22623
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = sunni
+		size = 3231
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -24296,9 +29256,19 @@
 	 } 
 	farmers = {
 		culture = jewish
-		religion =  jewish 
-		size = 20000
-	 } 
+		religion = jewish
+		size = 12000
+	}
+	craftsmen = {
+		culture = jewish
+		religion = jewish
+		size = 7000
+	}
+	clerks = {
+		culture = jewish
+		religion = jewish
+		size = 1000
+	} 
 	clergymen = {
 		culture = arab_levantine
 		religion =  sunni 
@@ -24311,9 +29281,19 @@
 	 } 
 	farmers = {
 		culture = arab_levantine
-		religion =  sunni 
-		size = 44639
-	 } 
+		religion = sunni
+		size = 26785
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = sunni
+		size = 15623
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = sunni
+		size = 2231
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -24371,9 +29351,19 @@
 	 } 
 	farmers = {
 		culture = arab_levantine
-		religion =  sunni 
-		size = 54639
-	 } 
+		religion = sunni
+		size = 32785
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = sunni
+		size = 19123
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = sunni
+		size = 2731
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
@@ -24431,9 +29421,19 @@
 	 } 
 	farmers = {
 		culture = arab_levantine
-		religion =  sunni 
-		size = 56639
-	 } 
+		religion = sunni
+		size = 33985
+	}
+	craftsmen = {
+		culture = arab_levantine
+		religion = sunni
+		size = 19823
+	}
+	clerks = {
+		culture = arab_levantine
+		religion = sunni
+		size = 2831
+	} 
 
 	#For Pan-Arab and National Arab
 	farmers = {
