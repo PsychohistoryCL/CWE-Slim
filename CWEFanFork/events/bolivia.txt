@@ -209,6 +209,7 @@ country_event = {
 	}
 	
 }
+}
 
 #Wide-spread opposition
 country_event = {
@@ -282,6 +283,7 @@ country_event = {
 			}
 		}
 	}
+}
 }
 
 #1946 La Paz riots
@@ -430,6 +432,7 @@ country_event = {
 		
 	}
 	
+}
 }
 
 #1947 'Election'
@@ -924,6 +927,7 @@ country_event = {
 			}
 		}
 	}
+}
 }
 
 #Self coup if cons lose power prior to the 1952 revolution

@@ -3962,7 +3962,7 @@ country_event = {
 				OR = { pop_majority_ideology = big_tent pop_majority_ideology = liberal }
 			}
 		}
-
+	}
 }
 
 #2019 Presidential Elections
