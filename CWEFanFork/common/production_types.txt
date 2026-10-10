@@ -381,7 +381,7 @@ steel_factory = {
 		coal = 9
 	}
 	output_goods = steel 
-	value = 15
+	value = 17.0
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spclow }
@@ -664,7 +664,7 @@ bio_fuel_factory = {
 		oil_seeds = 2.5
 	} 
 	output_goods = fuel 
-	value = 2
+	value = 3.2
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spclow }
@@ -736,7 +736,7 @@ natural_fabric_factory = {
 		wool = 1
 	}
 	output_goods = fabric 
-	value = 5
+	value = 6.0
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spcmedium }
@@ -765,7 +765,7 @@ synthetic_fabric_factory = {
 		rubber = 1
 	}
 	output_goods = fabric 
-	value = 5
+	value = 6.2
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spcmedium }
@@ -1178,7 +1178,7 @@ furniture_factory = {
 		fabric = 3
 	}
 	output_goods = furniture 
-	value = 5.2
+	value = 6.5
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spcmedium }
@@ -1208,7 +1208,7 @@ pharmaceuticals_factory = {
 		inorganic_chemicals = 3
 	}
 	output_goods = pharmaceuticals 
-	value = 9.3
+	value = 11.5
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spchigh }
@@ -1625,7 +1625,7 @@ transport_factory = {
 		ships = 1
 	}
 	output_goods = transport 
-	value = 10
+	value = 12.0
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spchigh }
