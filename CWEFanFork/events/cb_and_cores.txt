@@ -788,9 +788,7 @@ province_event = {
 		is_core = THIS
 	}
 	
-	mean_time_to_happen = {
-		days = 3
-	}
+	mean_time_to_happen = { days = 20 }
 	
 	option = {
 		name = EVT_2601_A
@@ -1155,9 +1153,7 @@ province_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 3
-	}
+	mean_time_to_happen = { days = 20 }
 	
 	option = {
 		name = EVT_2612_A # "It was worth the effort."

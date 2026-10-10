@@ -696,7 +696,7 @@ province_event = {
 
 	#major = yes
 	trigger = { has_province_modifier = terror_strike_impending }
-	mean_time_to_happen = { days = 6 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -719,7 +719,7 @@ province_event = {
 
 	#major = yes
 	trigger = { has_province_modifier = terror_strike_impending }
-	mean_time_to_happen = { days = 6 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -789,7 +789,7 @@ province_event = {
 
 	#major = yes
 	trigger = { has_province_modifier = terror_strike_impending }
-	mean_time_to_happen = { days = 6 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -830,7 +830,7 @@ province_event = {
 		has_province_modifier = terror_strike_impending
 		is_state_capital = yes
 	}
-	mean_time_to_happen = { days = 10 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -858,7 +858,7 @@ province_event = {
 		has_province_modifier = terror_strike_impending
 		port = yes
 	}
-	mean_time_to_happen = { days = 10 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -883,7 +883,7 @@ province_event = {
 
 	#major = yes
 	trigger = { has_province_modifier = terror_strike_impending }
-	mean_time_to_happen = { days = 6 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -920,7 +920,7 @@ province_event = {
 
 	#major = yes
 	trigger = { has_province_modifier = terror_strike_impending }
-	mean_time_to_happen = { days = 10 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -952,7 +952,7 @@ province_event = {
 
 	#major = yes
 	trigger = { has_province_modifier = terror_strike_impending }
-	mean_time_to_happen = { days = 10 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -975,7 +975,7 @@ province_event = {
 
 	#major = yes
 	trigger = { has_province_modifier = terror_strike_impending }
-	mean_time_to_happen = { days = 10 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -997,7 +997,7 @@ province_event = {
 
 	#major = yes
 	trigger = { has_province_modifier = terror_strike_impending }
-	mean_time_to_happen = { days = 10 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -1064,7 +1064,7 @@ province_event = {
 				minorities = yes
 				is_capital = no
 	}
-	mean_time_to_happen = { days = 10 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -1118,7 +1118,7 @@ province_event = {
 		has_province_modifier = terror_strike_impending
 		is_capital = yes
 	}
-	mean_time_to_happen = { days = 10 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending
@@ -1147,7 +1147,7 @@ province_event = {
 		is_capital = yes
 		owner = { OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 } }
 	}
-	mean_time_to_happen = { days = 10 }
+	mean_time_to_happen = { days = 30 }
 
 	immediate = {
 		remove_province_modifier = terror_strike_impending

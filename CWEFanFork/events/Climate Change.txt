@@ -946,7 +946,8 @@ country_event = {
 	
 	trigger = {
 
-OR = { year = 1980 has_country_flag = unlock_the_amazon }
+capital_scope = { continent = south_america }
+		OR = { year = 1980 has_country_flag = unlock_the_amazon }
 
 NOT = { has_country_flag = deforestation1 }
 

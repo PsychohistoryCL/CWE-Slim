@@ -434,9 +434,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	mean_time_to_happen = { days = 15 }
 
 	option = {
 		name = "EVT97180OPTA"
@@ -713,7 +711,7 @@ province_event = {
 		}
 	}
 	
-	mean_time_to_happen = { days = 1 }
+	mean_time_to_happen = { days = 15 }
 	
 	option = {
 		name = "EVT97185OPTA"
