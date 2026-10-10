@@ -540,7 +540,7 @@ limit = { has_country_modifier = democratic_bloc_leader THIS = { has_country_mod
 country_event = 1800011
 }
 
-	ai_chance = { factor = 0.1 }
+	ai_chance = { factor = 0.01 }
 		}
 
 option = {
@@ -616,7 +616,7 @@ limit = { has_country_modifier = democratic_bloc_leader THIS = { has_country_mod
 country_event = 1800011
 }
 
-	ai_chance = { factor = 0.1 }
+	ai_chance = { factor = 0.01 }
 	}
 
 }
